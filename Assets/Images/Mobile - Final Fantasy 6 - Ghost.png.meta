@@ -1,0 +1,1135 @@
+fileFormatVersion: 2
+guid: 646bc513e09936b418323ce9a0d10f33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 734841214998409721
+    second: Mobile - Final Fantasy 6 - Ghost_0
+  - first:
+      213: -7934164139367080315
+    second: Mobile - Final Fantasy 6 - Ghost_1
+  - first:
+      213: -8389519365938871237
+    second: Mobile - Final Fantasy 6 - Ghost_2
+  - first:
+      213: 6411611001602750153
+    second: Mobile - Final Fantasy 6 - Ghost_3
+  - first:
+      213: 5914820583119295689
+    second: Mobile - Final Fantasy 6 - Ghost_4
+  - first:
+      213: 7045644061740128657
+    second: Mobile - Final Fantasy 6 - Ghost_5
+  - first:
+      213: 2964158845930167117
+    second: Mobile - Final Fantasy 6 - Ghost_6
+  - first:
+      213: 2766652041013858955
+    second: Mobile - Final Fantasy 6 - Ghost_7
+  - first:
+      213: -8711673350644502263
+    second: Mobile - Final Fantasy 6 - Ghost_8
+  - first:
+      213: -4263761575424201904
+    second: Mobile - Final Fantasy 6 - Ghost_9
+  - first:
+      213: 1828526367372889704
+    second: Mobile - Final Fantasy 6 - Ghost_10
+  - first:
+      213: -4208715629758875236
+    second: Mobile - Final Fantasy 6 - Ghost_11
+  - first:
+      213: -2457658380447914134
+    second: Mobile - Final Fantasy 6 - Ghost_12
+  - first:
+      213: 7902844169500291734
+    second: Mobile - Final Fantasy 6 - Ghost_13
+  - first:
+      213: -4325988413457510887
+    second: Mobile - Final Fantasy 6 - Ghost_14
+  - first:
+      213: 8378563141140836174
+    second: Mobile - Final Fantasy 6 - Ghost_15
+  - first:
+      213: 1871042790850313800
+    second: Mobile - Final Fantasy 6 - Ghost_16
+  - first:
+      213: 1744690445601128226
+    second: Mobile - Final Fantasy 6 - Ghost_17
+  - first:
+      213: -8647836795450616702
+    second: Mobile - Final Fantasy 6 - Ghost_18
+  - first:
+      213: -3143519378464739390
+    second: Mobile - Final Fantasy 6 - Ghost_19
+  - first:
+      213: 2397807958256318362
+    second: Mobile - Final Fantasy 6 - Ghost_20
+  - first:
+      213: 7027946239687376057
+    second: Mobile - Final Fantasy 6 - Ghost_21
+  - first:
+      213: 1983879584131939519
+    second: Mobile - Final Fantasy 6 - Ghost_22
+  - first:
+      213: -6430110966073753954
+    second: Mobile - Final Fantasy 6 - Ghost_23
+  - first:
+      213: -2476816773644765149
+    second: Mobile - Final Fantasy 6 - Ghost_24
+  - first:
+      213: 3892941538369397521
+    second: Mobile - Final Fantasy 6 - Ghost_25
+  - first:
+      213: -1626657278470985404
+    second: Mobile - Final Fantasy 6 - Ghost_26
+  - first:
+      213: -8993559124987464530
+    second: Mobile - Final Fantasy 6 - Ghost_27
+  - first:
+      213: 4972705376323385311
+    second: Mobile - Final Fantasy 6 - Ghost_28
+  - first:
+      213: 5242195094827960673
+    second: Mobile - Final Fantasy 6 - Ghost_29
+  - first:
+      213: -4694705804402289298
+    second: Mobile - Final Fantasy 6 - Ghost_30
+  - first:
+      213: -2651268647913549509
+    second: Mobile - Final Fantasy 6 - Ghost_31
+  - first:
+      213: 1792715311836947625
+    second: Mobile - Final Fantasy 6 - Ghost_32
+  - first:
+      213: -8962149409160234466
+    second: Mobile - Final Fantasy 6 - Ghost_33
+  - first:
+      213: -4295850357747434380
+    second: Mobile - Final Fantasy 6 - Ghost_34
+  - first:
+      213: -1982739699506054778
+    second: Mobile - Final Fantasy 6 - Ghost_35
+  - first:
+      213: -7060314435279725360
+    second: Mobile - Final Fantasy 6 - Ghost_36
+  - first:
+      213: -2868382858737067235
+    second: Mobile - Final Fantasy 6 - Ghost_37
+  - first:
+      213: -4358222613054160024
+    second: Mobile - Final Fantasy 6 - Ghost_38
+  - first:
+      213: 8780605246221851566
+    second: Mobile - Final Fantasy 6 - Ghost_39
+  - first:
+      213: 8734624095037850615
+    second: Mobile - Final Fantasy 6 - Ghost_40
+  - first:
+      213: 2411867920900184354
+    second: Mobile - Final Fantasy 6 - Ghost_41
+  - first:
+      213: -5675055203183316467
+    second: Mobile - Final Fantasy 6 - Ghost_42
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 208
+        width: 26
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e0674fc0edfd74b95b3dcb4099de42
+      internalID: 734841214998409721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 208
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4935e33741036b6419a530741b3f64ea
+      internalID: -7934164139367080315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 208
+        width: 26
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e36de2f9fd6d7542b8d07380014f5cc
+      internalID: -8389519365938871237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 208
+        width: 26
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1c4b3568eaf33478402631a3279273
+      internalID: 6411611001602750153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 208
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74323c83f63247a42afb806cea56e5f1
+      internalID: 5914820583119295689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 208
+        width: 26
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ef6340cc6b2ba42840011d037e61d3
+      internalID: 7045644061740128657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 208
+        width: 25
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a759a3e60b0392442bb60ef7dcf377b7
+      internalID: 2964158845930167117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 209
+        width: 23
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdd28320d1ae3849b3dc2e57c0dc8bc
+      internalID: 2766652041013858955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 208
+        width: 25
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ae3fd964af81545853d81c114ee69a
+      internalID: -8711673350644502263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 209
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b251c2cd014796498561ee5871253fc
+      internalID: -4263761575424201904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 161
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4c2efd770c6854a872d5f2050f3dc4
+      internalID: 1828526367372889704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 162
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f42020ef14463a41bd0c690ba1a559c
+      internalID: -4208715629758875236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 161
+        width: 23
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34a5376e9f7c6a4dbd4f6fba7b4103c
+      internalID: -2457658380447914134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 160
+        width: 25
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2c3e9fd516ad045b8112e9f2a4d69d
+      internalID: 7902844169500291734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 160
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b8600e4ccdb074aa2b91cbe0b6aaab
+      internalID: -4325988413457510887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 166
+        width: 28
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db5f766497b64546a03dd662f414812
+      internalID: 8378563141140836174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 160
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12179e74be963844391444c2ddc3b462
+      internalID: 1871042790850313800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 160
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff060c514c71be94baf173d1ff756c02
+      internalID: 1744690445601128226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 162
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd4a40167d5dc24580d2fb7aa6ad9bc
+      internalID: -8647836795450616702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_19
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 160
+        width: 33
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60219032ae35a24ab7356ce566b2bf0
+      internalID: -3143519378464739390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 112
+        width: 33
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d4f73cbe733f74d9da063e646da0d8
+      internalID: 2397807958256318362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 112
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d0533782b063c48aa359d0e300c1d9
+      internalID: 7027946239687376057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 112
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d518267816c1304698ad2db32238881
+      internalID: 1983879584131939519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 113
+        width: 46
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0134cc4137a9ec4da1e104a4c56ffa2
+      internalID: -6430110966073753954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 112
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca16b79b12242e64a9fdf741d8eb636c
+      internalID: -2476816773644765149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 112
+        width: 32
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dad37d2350e784b9e03bac19a152eb
+      internalID: 3892941538369397521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_26
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 113
+        width: 30
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64a2eb1df3e77c4686632afeeb29b5b
+      internalID: -1626657278470985404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_27
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 117
+        width: 32
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db46de8bb8a2924e81ede85e047b585
+      internalID: -8993559124987464530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 114
+        width: 27
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12bfb1e828a7464bb07d7f29e793e69
+      internalID: 4972705376323385311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_29
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 112
+        width: 28
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd3e4ce4e8b66e459b73ad53cf2a78d
+      internalID: 5242195094827960673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 29
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421a2d04cc43a9b479e786ef790855ee
+      internalID: -4694705804402289298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 64
+        width: 26
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a5ba72cbeb0c747b23f70a3a947452
+      internalID: -2651268647913549509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 64
+        width: 26
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065845c27a37532488bf32ae63ab3212
+      internalID: 1792715311836947625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 65
+        width: 24
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657a3c92eced9fa49a2fa6f45f05b97e
+      internalID: -8962149409160234466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 64
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0630471ce0d525c4dafbb017d23bf2c0
+      internalID: -4295850357747434380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 65
+        width: 23
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6537bef369b850e40b039c4652c31f7d
+      internalID: -1982739699506054778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 64
+        width: 27
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60070b2db1bf03247847328f25062a6e
+      internalID: -7060314435279725360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_37
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 64
+        width: 27
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b8241f024a83b48b8a40c2d77634b4
+      internalID: -2868382858737067235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 65
+        width: 30
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c491af4c48b46684695cd2839be8644d
+      internalID: -4358222613054160024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_39
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 64
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edee6a5864e68e4082020efabe29291
+      internalID: 8780605246221851566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 25
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fdd1fdccb3c8d4b919b79ddf745eaa
+      internalID: 8734624095037850615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 12
+        width: 23
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d6673a72246f64abfca67dd6c6cb1d
+      internalID: 2411867920900184354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Ghost_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 11
+        width: 25
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82c8142aa82654408202e6ee4a0113a
+      internalID: -5675055203183316467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

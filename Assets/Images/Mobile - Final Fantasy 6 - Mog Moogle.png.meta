@@ -1,0 +1,4303 @@
+fileFormatVersion: 2
+guid: b46d29cd80f008a47bcdd60018517f0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3226447447382645183
+    second: Mobile - Final Fantasy 6 - Mog Moogle_0
+  - first:
+      213: -1013252596157767922
+    second: Mobile - Final Fantasy 6 - Mog Moogle_1
+  - first:
+      213: -8951121243944421047
+    second: Mobile - Final Fantasy 6 - Mog Moogle_2
+  - first:
+      213: 5723936835513273204
+    second: Mobile - Final Fantasy 6 - Mog Moogle_3
+  - first:
+      213: 2794745776825361392
+    second: Mobile - Final Fantasy 6 - Mog Moogle_4
+  - first:
+      213: -1416038468717844404
+    second: Mobile - Final Fantasy 6 - Mog Moogle_5
+  - first:
+      213: -8319841884910503528
+    second: Mobile - Final Fantasy 6 - Mog Moogle_6
+  - first:
+      213: -4682923097689087164
+    second: Mobile - Final Fantasy 6 - Mog Moogle_7
+  - first:
+      213: 117121551300320097
+    second: Mobile - Final Fantasy 6 - Mog Moogle_8
+  - first:
+      213: -2385132638538673661
+    second: Mobile - Final Fantasy 6 - Mog Moogle_9
+  - first:
+      213: -4213090843804608572
+    second: Mobile - Final Fantasy 6 - Mog Moogle_10
+  - first:
+      213: -361814655297306957
+    second: Mobile - Final Fantasy 6 - Mog Moogle_11
+  - first:
+      213: 750473713617002412
+    second: Mobile - Final Fantasy 6 - Mog Moogle_12
+  - first:
+      213: 1913584614955072181
+    second: Mobile - Final Fantasy 6 - Mog Moogle_13
+  - first:
+      213: -3292434243393022310
+    second: Mobile - Final Fantasy 6 - Mog Moogle_14
+  - first:
+      213: 1532642410990887654
+    second: Mobile - Final Fantasy 6 - Mog Moogle_15
+  - first:
+      213: 4167958827969211657
+    second: Mobile - Final Fantasy 6 - Mog Moogle_16
+  - first:
+      213: 1913907056725972361
+    second: Mobile - Final Fantasy 6 - Mog Moogle_17
+  - first:
+      213: 1644983024013217121
+    second: Mobile - Final Fantasy 6 - Mog Moogle_18
+  - first:
+      213: -6642457204135937174
+    second: Mobile - Final Fantasy 6 - Mog Moogle_19
+  - first:
+      213: -6447779342970065746
+    second: Mobile - Final Fantasy 6 - Mog Moogle_20
+  - first:
+      213: 6534247871546726021
+    second: Mobile - Final Fantasy 6 - Mog Moogle_21
+  - first:
+      213: 1964592905732792372
+    second: Mobile - Final Fantasy 6 - Mog Moogle_22
+  - first:
+      213: -1186145807992174928
+    second: Mobile - Final Fantasy 6 - Mog Moogle_23
+  - first:
+      213: -1240272093906080438
+    second: Mobile - Final Fantasy 6 - Mog Moogle_24
+  - first:
+      213: 6986426995754636450
+    second: Mobile - Final Fantasy 6 - Mog Moogle_25
+  - first:
+      213: -7947480037566695139
+    second: Mobile - Final Fantasy 6 - Mog Moogle_26
+  - first:
+      213: -9011582727107730413
+    second: Mobile - Final Fantasy 6 - Mog Moogle_27
+  - first:
+      213: 3021758785548349162
+    second: Mobile - Final Fantasy 6 - Mog Moogle_28
+  - first:
+      213: -2874976586688279096
+    second: Mobile - Final Fantasy 6 - Mog Moogle_29
+  - first:
+      213: 4648831533059405591
+    second: Mobile - Final Fantasy 6 - Mog Moogle_30
+  - first:
+      213: -4307118660875476466
+    second: Mobile - Final Fantasy 6 - Mog Moogle_31
+  - first:
+      213: 9119898367742983913
+    second: Mobile - Final Fantasy 6 - Mog Moogle_32
+  - first:
+      213: -8991485215492085919
+    second: Mobile - Final Fantasy 6 - Mog Moogle_33
+  - first:
+      213: -1220962924364371375
+    second: Mobile - Final Fantasy 6 - Mog Moogle_34
+  - first:
+      213: -5731547042917360116
+    second: Mobile - Final Fantasy 6 - Mog Moogle_35
+  - first:
+      213: -5762218278345465299
+    second: Mobile - Final Fantasy 6 - Mog Moogle_36
+  - first:
+      213: -8771229472338372964
+    second: Mobile - Final Fantasy 6 - Mog Moogle_37
+  - first:
+      213: 7480362322110482386
+    second: Mobile - Final Fantasy 6 - Mog Moogle_38
+  - first:
+      213: 1168015496359710678
+    second: Mobile - Final Fantasy 6 - Mog Moogle_39
+  - first:
+      213: 373207541501772188
+    second: Mobile - Final Fantasy 6 - Mog Moogle_40
+  - first:
+      213: 2406788644444972191
+    second: Mobile - Final Fantasy 6 - Mog Moogle_41
+  - first:
+      213: -9060839844554829826
+    second: Mobile - Final Fantasy 6 - Mog Moogle_42
+  - first:
+      213: -5705941771419797117
+    second: Mobile - Final Fantasy 6 - Mog Moogle_43
+  - first:
+      213: -1689480871500170683
+    second: Mobile - Final Fantasy 6 - Mog Moogle_44
+  - first:
+      213: 3661327211975528553
+    second: Mobile - Final Fantasy 6 - Mog Moogle_45
+  - first:
+      213: -8608561566786220126
+    second: Mobile - Final Fantasy 6 - Mog Moogle_46
+  - first:
+      213: 255948623199346494
+    second: Mobile - Final Fantasy 6 - Mog Moogle_47
+  - first:
+      213: -97618745738644400
+    second: Mobile - Final Fantasy 6 - Mog Moogle_48
+  - first:
+      213: 4787542198250090694
+    second: Mobile - Final Fantasy 6 - Mog Moogle_49
+  - first:
+      213: -871121864076997892
+    second: Mobile - Final Fantasy 6 - Mog Moogle_50
+  - first:
+      213: -5626746827290694146
+    second: Mobile - Final Fantasy 6 - Mog Moogle_51
+  - first:
+      213: 8773909233299892652
+    second: Mobile - Final Fantasy 6 - Mog Moogle_52
+  - first:
+      213: 2484822938382162756
+    second: Mobile - Final Fantasy 6 - Mog Moogle_53
+  - first:
+      213: -1909847809031292749
+    second: Mobile - Final Fantasy 6 - Mog Moogle_54
+  - first:
+      213: -1642365792211511016
+    second: Mobile - Final Fantasy 6 - Mog Moogle_55
+  - first:
+      213: 7112529240105393492
+    second: Mobile - Final Fantasy 6 - Mog Moogle_56
+  - first:
+      213: -1801848219126581406
+    second: Mobile - Final Fantasy 6 - Mog Moogle_57
+  - first:
+      213: -785638286471431944
+    second: Mobile - Final Fantasy 6 - Mog Moogle_58
+  - first:
+      213: -1773781686496082405
+    second: Mobile - Final Fantasy 6 - Mog Moogle_59
+  - first:
+      213: -5978322945893400014
+    second: Mobile - Final Fantasy 6 - Mog Moogle_60
+  - first:
+      213: 7580441153964929907
+    second: Mobile - Final Fantasy 6 - Mog Moogle_61
+  - first:
+      213: -7217316538967848537
+    second: Mobile - Final Fantasy 6 - Mog Moogle_62
+  - first:
+      213: -1604074444802851426
+    second: Mobile - Final Fantasy 6 - Mog Moogle_63
+  - first:
+      213: 1479629705498603656
+    second: Mobile - Final Fantasy 6 - Mog Moogle_64
+  - first:
+      213: -5484094757722835940
+    second: Mobile - Final Fantasy 6 - Mog Moogle_65
+  - first:
+      213: 7969744277578651533
+    second: Mobile - Final Fantasy 6 - Mog Moogle_66
+  - first:
+      213: 7811519154234102101
+    second: Mobile - Final Fantasy 6 - Mog Moogle_67
+  - first:
+      213: 6728078999511504681
+    second: Mobile - Final Fantasy 6 - Mog Moogle_68
+  - first:
+      213: 8270538598223230234
+    second: Mobile - Final Fantasy 6 - Mog Moogle_69
+  - first:
+      213: 8757104561971800448
+    second: Mobile - Final Fantasy 6 - Mog Moogle_70
+  - first:
+      213: 5968163709265477349
+    second: Mobile - Final Fantasy 6 - Mog Moogle_71
+  - first:
+      213: -6526556959309018417
+    second: Mobile - Final Fantasy 6 - Mog Moogle_72
+  - first:
+      213: -3394047290725356902
+    second: Mobile - Final Fantasy 6 - Mog Moogle_73
+  - first:
+      213: 7953535053765524817
+    second: Mobile - Final Fantasy 6 - Mog Moogle_74
+  - first:
+      213: -8999402339780147993
+    second: Mobile - Final Fantasy 6 - Mog Moogle_75
+  - first:
+      213: 307072470431744530
+    second: Mobile - Final Fantasy 6 - Mog Moogle_76
+  - first:
+      213: -3268716889516863182
+    second: Mobile - Final Fantasy 6 - Mog Moogle_77
+  - first:
+      213: -3131793663810797848
+    second: Mobile - Final Fantasy 6 - Mog Moogle_78
+  - first:
+      213: -1373503450413157259
+    second: Mobile - Final Fantasy 6 - Mog Moogle_79
+  - first:
+      213: -8432495951331694121
+    second: Mobile - Final Fantasy 6 - Mog Moogle_80
+  - first:
+      213: -1047954432386212702
+    second: Mobile - Final Fantasy 6 - Mog Moogle_81
+  - first:
+      213: 6850451441682397529
+    second: Mobile - Final Fantasy 6 - Mog Moogle_82
+  - first:
+      213: 1653378853252951282
+    second: Mobile - Final Fantasy 6 - Mog Moogle_83
+  - first:
+      213: 8907733568371291
+    second: Mobile - Final Fantasy 6 - Mog Moogle_84
+  - first:
+      213: -1051334799051630623
+    second: Mobile - Final Fantasy 6 - Mog Moogle_85
+  - first:
+      213: -4844126968438745869
+    second: Mobile - Final Fantasy 6 - Mog Moogle_86
+  - first:
+      213: -1142901992356203565
+    second: Mobile - Final Fantasy 6 - Mog Moogle_87
+  - first:
+      213: 220498363336146581
+    second: Mobile - Final Fantasy 6 - Mog Moogle_88
+  - first:
+      213: 5458473022885386838
+    second: Mobile - Final Fantasy 6 - Mog Moogle_89
+  - first:
+      213: -4891837513380286144
+    second: Mobile - Final Fantasy 6 - Mog Moogle_90
+  - first:
+      213: -54054155815739989
+    second: Mobile - Final Fantasy 6 - Mog Moogle_91
+  - first:
+      213: 1990125372211375196
+    second: Mobile - Final Fantasy 6 - Mog Moogle_92
+  - first:
+      213: 6146367501381788777
+    second: Mobile - Final Fantasy 6 - Mog Moogle_93
+  - first:
+      213: 7451105393356586130
+    second: Mobile - Final Fantasy 6 - Mog Moogle_94
+  - first:
+      213: -4056776264780624935
+    second: Mobile - Final Fantasy 6 - Mog Moogle_95
+  - first:
+      213: 8787081084633390522
+    second: Mobile - Final Fantasy 6 - Mog Moogle_96
+  - first:
+      213: -8685571065403585772
+    second: Mobile - Final Fantasy 6 - Mog Moogle_97
+  - first:
+      213: -1432809662216497307
+    second: Mobile - Final Fantasy 6 - Mog Moogle_98
+  - first:
+      213: 6901159681569977032
+    second: Mobile - Final Fantasy 6 - Mog Moogle_99
+  - first:
+      213: -1049834622049595519
+    second: Mobile - Final Fantasy 6 - Mog Moogle_100
+  - first:
+      213: 3579834735173303826
+    second: Mobile - Final Fantasy 6 - Mog Moogle_101
+  - first:
+      213: -1722230348972476766
+    second: Mobile - Final Fantasy 6 - Mog Moogle_102
+  - first:
+      213: 5265832952047135965
+    second: Mobile - Final Fantasy 6 - Mog Moogle_103
+  - first:
+      213: -4453082317955824337
+    second: Mobile - Final Fantasy 6 - Mog Moogle_104
+  - first:
+      213: -4543664502454360831
+    second: Mobile - Final Fantasy 6 - Mog Moogle_105
+  - first:
+      213: -8772772919163905559
+    second: Mobile - Final Fantasy 6 - Mog Moogle_106
+  - first:
+      213: 5535791619518538670
+    second: Mobile - Final Fantasy 6 - Mog Moogle_107
+  - first:
+      213: -1722465156640739966
+    second: Mobile - Final Fantasy 6 - Mog Moogle_108
+  - first:
+      213: 4174608826942265892
+    second: Mobile - Final Fantasy 6 - Mog Moogle_109
+  - first:
+      213: -8089340550670536987
+    second: Mobile - Final Fantasy 6 - Mog Moogle_110
+  - first:
+      213: -4177702324424960220
+    second: Mobile - Final Fantasy 6 - Mog Moogle_111
+  - first:
+      213: 8297901235761435159
+    second: Mobile - Final Fantasy 6 - Mog Moogle_112
+  - first:
+      213: -4960332156025806237
+    second: Mobile - Final Fantasy 6 - Mog Moogle_113
+  - first:
+      213: 2962805246777847237
+    second: Mobile - Final Fantasy 6 - Mog Moogle_114
+  - first:
+      213: 2768496842006377259
+    second: Mobile - Final Fantasy 6 - Mog Moogle_115
+  - first:
+      213: 1748411811764435221
+    second: Mobile - Final Fantasy 6 - Mog Moogle_116
+  - first:
+      213: -1099168090927070324
+    second: Mobile - Final Fantasy 6 - Mog Moogle_117
+  - first:
+      213: -808456536348974227
+    second: Mobile - Final Fantasy 6 - Mog Moogle_118
+  - first:
+      213: 4459913989548837874
+    second: Mobile - Final Fantasy 6 - Mog Moogle_119
+  - first:
+      213: 323735401235097302
+    second: Mobile - Final Fantasy 6 - Mog Moogle_120
+  - first:
+      213: 4731789248702781112
+    second: Mobile - Final Fantasy 6 - Mog Moogle_121
+  - first:
+      213: 5963711152322769364
+    second: Mobile - Final Fantasy 6 - Mog Moogle_122
+  - first:
+      213: 9138198106904501826
+    second: Mobile - Final Fantasy 6 - Mog Moogle_123
+  - first:
+      213: 4062198264238311964
+    second: Mobile - Final Fantasy 6 - Mog Moogle_124
+  - first:
+      213: 8267876469548360844
+    second: Mobile - Final Fantasy 6 - Mog Moogle_125
+  - first:
+      213: 7158744892012767338
+    second: Mobile - Final Fantasy 6 - Mog Moogle_126
+  - first:
+      213: 4002432897819566203
+    second: Mobile - Final Fantasy 6 - Mog Moogle_127
+  - first:
+      213: -3187628864474527226
+    second: Mobile - Final Fantasy 6 - Mog Moogle_128
+  - first:
+      213: -9004704126825398680
+    second: Mobile - Final Fantasy 6 - Mog Moogle_129
+  - first:
+      213: -1443713416427113186
+    second: Mobile - Final Fantasy 6 - Mog Moogle_130
+  - first:
+      213: -8753005025015795125
+    second: Mobile - Final Fantasy 6 - Mog Moogle_131
+  - first:
+      213: -6567450737352720247
+    second: Mobile - Final Fantasy 6 - Mog Moogle_132
+  - first:
+      213: -6357011160393505959
+    second: Mobile - Final Fantasy 6 - Mog Moogle_133
+  - first:
+      213: 6783213043369277414
+    second: Mobile - Final Fantasy 6 - Mog Moogle_134
+  - first:
+      213: -3265010316465111372
+    second: Mobile - Final Fantasy 6 - Mog Moogle_135
+  - first:
+      213: -244432011873230823
+    second: Mobile - Final Fantasy 6 - Mog Moogle_136
+  - first:
+      213: 8787279403746527886
+    second: Mobile - Final Fantasy 6 - Mog Moogle_137
+  - first:
+      213: -8757356315289175442
+    second: Mobile - Final Fantasy 6 - Mog Moogle_138
+  - first:
+      213: 6439672360888634394
+    second: Mobile - Final Fantasy 6 - Mog Moogle_139
+  - first:
+      213: 1941680554234531072
+    second: Mobile - Final Fantasy 6 - Mog Moogle_140
+  - first:
+      213: 6922960543373962869
+    second: Mobile - Final Fantasy 6 - Mog Moogle_141
+  - first:
+      213: -6398610562991904428
+    second: Mobile - Final Fantasy 6 - Mog Moogle_142
+  - first:
+      213: 9052402741389788243
+    second: Mobile - Final Fantasy 6 - Mog Moogle_143
+  - first:
+      213: -6859073209335549738
+    second: Mobile - Final Fantasy 6 - Mog Moogle_144
+  - first:
+      213: -6061309928948827327
+    second: Mobile - Final Fantasy 6 - Mog Moogle_145
+  - first:
+      213: 2240022012546986024
+    second: Mobile - Final Fantasy 6 - Mog Moogle_146
+  - first:
+      213: -7713859362399622118
+    second: Mobile - Final Fantasy 6 - Mog Moogle_147
+  - first:
+      213: 8781033708866436305
+    second: Mobile - Final Fantasy 6 - Mog Moogle_148
+  - first:
+      213: -580951783568904832
+    second: Mobile - Final Fantasy 6 - Mog Moogle_149
+  - first:
+      213: 5528689471996714886
+    second: Mobile - Final Fantasy 6 - Mog Moogle_150
+  - first:
+      213: 7665975407106110990
+    second: Mobile - Final Fantasy 6 - Mog Moogle_151
+  - first:
+      213: 2467381431582710411
+    second: Mobile - Final Fantasy 6 - Mog Moogle_152
+  - first:
+      213: 2196885330769717811
+    second: Mobile - Final Fantasy 6 - Mog Moogle_153
+  - first:
+      213: 6452962360332731878
+    second: Mobile - Final Fantasy 6 - Mog Moogle_154
+  - first:
+      213: -2907372148532716775
+    second: Mobile - Final Fantasy 6 - Mog Moogle_155
+  - first:
+      213: 3816694122150430052
+    second: Mobile - Final Fantasy 6 - Mog Moogle_156
+  - first:
+      213: -5522627587027737005
+    second: Mobile - Final Fantasy 6 - Mog Moogle_157
+  - first:
+      213: -7629045827824606817
+    second: Mobile - Final Fantasy 6 - Mog Moogle_158
+  - first:
+      213: -7596858069565244691
+    second: Mobile - Final Fantasy 6 - Mog Moogle_159
+  - first:
+      213: 6460785670866656434
+    second: Mobile - Final Fantasy 6 - Mog Moogle_160
+  - first:
+      213: 3008792454800577591
+    second: Mobile - Final Fantasy 6 - Mog Moogle_161
+  - first:
+      213: -829485589470595888
+    second: Mobile - Final Fantasy 6 - Mog Moogle_162
+  - first:
+      213: 5556003463646037794
+    second: Mobile - Final Fantasy 6 - Mog Moogle_163
+  - first:
+      213: 6574793905517290166
+    second: Mobile - Final Fantasy 6 - Mog Moogle_164
+  - first:
+      213: 8849522796505346140
+    second: Mobile - Final Fantasy 6 - Mog Moogle_165
+  - first:
+      213: -5855661871640489003
+    second: Mobile - Final Fantasy 6 - Mog Moogle_166
+  - first:
+      213: -7526895041386665890
+    second: Mobile - Final Fantasy 6 - Mog Moogle_167
+  - first:
+      213: 7301528193519112601
+    second: Mobile - Final Fantasy 6 - Mog Moogle_168
+  - first:
+      213: -205370691465377858
+    second: Mobile - Final Fantasy 6 - Mog Moogle_169
+  - first:
+      213: -8706552140069311872
+    second: Mobile - Final Fantasy 6 - Mog Moogle_170
+  - first:
+      213: -8274987641433417939
+    second: Mobile - Final Fantasy 6 - Mog Moogle_171
+  - first:
+      213: 6300085870722003426
+    second: Mobile - Final Fantasy 6 - Mog Moogle_172
+  - first:
+      213: 8947792207677255505
+    second: Mobile - Final Fantasy 6 - Mog Moogle_173
+  - first:
+      213: 4017637927586271164
+    second: Mobile - Final Fantasy 6 - Mog Moogle_174
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 976
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5499ba1d9774649b30d278838e006f
+      internalID: -3226447447382645183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 977
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a27bb2f7d6ec843925b607e1b7035d
+      internalID: -1013252596157767922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 976
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c55dcc8d57b0341b4ece39e38aae33
+      internalID: -8951121243944421047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 976
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccec82f431772ae41a1600f342869273
+      internalID: 5723936835513273204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 977
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d359c01527979c54c9ff81ef6df3f970
+      internalID: 2794745776825361392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 976
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4102834911c90f4409b67d471f63d319
+      internalID: -1416038468717844404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 977
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4b942749215a54fb4d9af5f3df0d79
+      internalID: -8319841884910503528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 977
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f81816877350a46a1cdd7c75f34777
+      internalID: -4682923097689087164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 977
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9ce7e47e799824dae6870d5658d8c1
+      internalID: 117121551300320097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 977
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c29810a1a43614a97b3519f86f62f1
+      internalID: -2385132638538673661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 929
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1943274940eda4db9949a7eac3ee6e
+      internalID: -4213090843804608572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 933
+        width: 25
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1179e43720f17546afc9c07e447ddf4
+      internalID: -361814655297306957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 929
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1724ccb4cc0364344932d50412e1c55b
+      internalID: 750473713617002412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 929
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72fcffe32b272f4cad0884bf1acd9d2
+      internalID: 1913584614955072181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 929
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f80f286c18e6ad4e817874f55138538
+      internalID: -3292434243393022310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 931
+        width: 24
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754450c7fd865b94badec6a8bb1d4e1c
+      internalID: 1532642410990887654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 930
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8710f5ac46fc940a955a1ea95380c2
+      internalID: 4167958827969211657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 930
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ba3d80be73fc540a740d9fd0a27782
+      internalID: 1913907056725972361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 929
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aeab38bb7ba8d47a0ce71e935c125a
+      internalID: 1644983024013217121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_19
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 929
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac7b65ab87d59e45b8bab3dfa419f5e
+      internalID: -6642457204135937174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 881
+        width: 24
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad81ff330a5ed5d4681440717aa2c915
+      internalID: -6447779342970065746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 881
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f5c817df0a1904daa52ab63307e2e2
+      internalID: 6534247871546726021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 881
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441eec147702ef7409e76d784dcfcdca
+      internalID: 1964592905732792372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 885
+        width: 42
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4e4b57adddaa04a82b1c04e1c3726b
+      internalID: -1186145807992174928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 881
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3be23069aa885459c1f43a496bec08
+      internalID: -1240272093906080438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 881
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7edc98bb8209e940995649f75b10dbe
+      internalID: 6986426995754636450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_26
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 881
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0477a3d39faf9418db452c197e5395
+      internalID: -7947480037566695139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_27
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 886
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2e89402e03bfb4f951a042e75aa4c1
+      internalID: -9011582727107730413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 881
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369b45a658002a74aa32cbeb730ec9a0
+      internalID: 3021758785548349162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_29
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 881
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4c2d4f6736a1e43b13ee1880dee770
+      internalID: -2874976586688279096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 833
+        width: 23
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8cfb4b27e326b458e596f37f5a7697
+      internalID: 4648831533059405591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 833
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7864ddf8c1f27a84d8a0eaae43210ec0
+      internalID: -4307118660875476466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 833
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00db56b71d82b094ba69a2b96d0ae672
+      internalID: 9119898367742983913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 833
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d65592abca831e42a8252a39bbe357a
+      internalID: -8991485215492085919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 833
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdafd3bf8c0f1142ba06286fbf0ea14
+      internalID: -1220962924364371375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_35
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 833
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1406d0480c00eb646a727c28ad150f06
+      internalID: -5731547042917360116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 833
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6179b2648d440d45b0b886a2fd809d9
+      internalID: -5762218278345465299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_37
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 833
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5afff22b95f5d49abfb4fe5c27711d
+      internalID: -8771229472338372964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_38
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 839
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3ac4b48e4b7b349813198597738a10
+      internalID: 7480362322110482386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_39
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 834
+        width: 37
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4694c50ec74c34ba03455e2acc703a
+      internalID: 1168015496359710678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_40
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 833
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb31e1e6433f014db9dc0b2406dafc3
+      internalID: 373207541501772188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_41
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 786
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61836aaecd664c429c5babdc73be513
+      internalID: 2406788644444972191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 786
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1be23540880d94584a270e44cbe0e9
+      internalID: -9060839844554829826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_43
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 787
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecfed9ad50b30b4b8be21727ad3f664
+      internalID: -5705941771419797117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_44
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 787
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ae7b99b756e074ca43aebe8f707169
+      internalID: -1689480871500170683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_45
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 787
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16306cbd6d84335459e78fd17b18d69e
+      internalID: 3661327211975528553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 720
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04809561ca14d2c49aba935e80d70784
+      internalID: -8608561566786220126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_47
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 721
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26ab7e00254b934dbe20491863a34c1
+      internalID: 255948623199346494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_48
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 720
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a506db11beabe47b6c4f8b5d1b9006
+      internalID: -97618745738644400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_49
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 720
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ebbfef4f740724d861dacd7aa69e70
+      internalID: 4787542198250090694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_50
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 721
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199fb379fbe73a34cb3dc9c74c6619f1
+      internalID: -871121864076997892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_51
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 720
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b537b77f1af544ab897ea6ab59465c
+      internalID: -5626746827290694146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_52
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 721
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42f3fc8d401bc148b2514a5ad1a31e9
+      internalID: 8773909233299892652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_53
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 721
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a472a3661ecc78740b3f43c02a53537d
+      internalID: 2484822938382162756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_54
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 721
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2121e48c34d1345bfd8646b2eed9d7
+      internalID: -1909847809031292749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_55
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 721
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff699bd8e2181304f89b8aded2284309
+      internalID: -1642365792211511016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 673
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336c838fae246c642b8e01b3d14b13e6
+      internalID: 7112529240105393492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 677
+        width: 25
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1684104797579a499947a33e195b1b3
+      internalID: -1801848219126581406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_58
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 673
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3550f2162c9240b4baa3f1d5d40e6639
+      internalID: -785638286471431944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_59
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 673
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a8068cf6d0fbf40aec16428e3aba44
+      internalID: -1773781686496082405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_60
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 673
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8476c530e12e1cb4185b3532588f5c07
+      internalID: -5978322945893400014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_61
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 675
+        width: 24
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac98eb9f71e667409d472832fd05940
+      internalID: 7580441153964929907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_62
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 674
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5ec76206c3347489d4d0a52722bb12
+      internalID: -7217316538967848537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_63
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 674
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab5dc75de55cb44a9ba0c78d5d594e4
+      internalID: -1604074444802851426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_64
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 673
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf5e470c51e0924bb04614070e20f24
+      internalID: 1479629705498603656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_65
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 673
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962e4d87a37ab634f92cc4a6737d43d2
+      internalID: -5484094757722835940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_66
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 625
+        width: 24
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135d9966ee475ea449ca4575338db1f7
+      internalID: 7969744277578651533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_67
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 625
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c869bce96b4d1cc44a36e897c3c4c858
+      internalID: 7811519154234102101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_68
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 625
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed2de2664cb313469af6bdaaaa721ef
+      internalID: 6728078999511504681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_69
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 629
+        width: 42
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceeee32bbcbb6149926a19b00cc0e70
+      internalID: 8270538598223230234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_70
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 625
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1750f6c1ca74e445a4692eab9355fea
+      internalID: 8757104561971800448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_71
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 625
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7029c56613a0980448042aeb4df223f1
+      internalID: 5968163709265477349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_72
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 625
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab73a4c5b9104044b487750173491a1
+      internalID: -6526556959309018417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_73
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 630
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab3facb78e8f354690df188c99e674f
+      internalID: -3394047290725356902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_74
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 625
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd939e161c88a914fb95c9104c391da0
+      internalID: 7953535053765524817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_75
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 625
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47934bce36d08c40b29b75a7159aa0e
+      internalID: -8999402339780147993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_76
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 577
+        width: 23
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df09e0f13460d3544b1f97fc2fc7dcea
+      internalID: 307072470431744530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_77
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 577
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2b8b83c865c7c4292b0667a36834ad
+      internalID: -3268716889516863182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_78
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 577
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455afd1bbcc0f374790928247ceade2c
+      internalID: -3131793663810797848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_79
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 577
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ea5993ededc0b48ae81b180ee98f70
+      internalID: -1373503450413157259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_80
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 577
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe07f873790eab49b19d9b418692d63
+      internalID: -8432495951331694121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_81
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 577
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95acf76776530144fbc313f22aea6c9e
+      internalID: -1047954432386212702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_82
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 577
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dd21d369a04ad41bf51f4d80424579
+      internalID: 6850451441682397529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_83
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 577
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c948c41b71e78c84caff8c2b5213c1b7
+      internalID: 1653378853252951282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_84
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 583
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fd5584112173e4e86dad32112bedd7
+      internalID: 8907733568371291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_85
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 578
+        width: 37
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd8dd5967b106a4a97535fb60e1e57a
+      internalID: -1051334799051630623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_86
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 577
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a93ef74aeec804a81f4470122979f3
+      internalID: -4844126968438745869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_87
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 530
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1893feb77afce294488e5922d041fec9
+      internalID: -1142901992356203565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_88
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 530
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5f09bd0e2f5d94381c133cde2c3950
+      internalID: 220498363336146581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_89
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 464
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5a2b2da5c267f44b9cdd1efc0152a5
+      internalID: 5458473022885386838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_90
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 465
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b52211f904f1b4787fd1830a35acca
+      internalID: -4891837513380286144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_91
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 464
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca31322f98bdfe428a7524616b6429b
+      internalID: -54054155815739989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_92
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 464
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7775cf8b460261b4c90a27b545f6fcc9
+      internalID: 1990125372211375196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_93
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 465
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537451852f4512443890ec6992d55d2a
+      internalID: 6146367501381788777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_94
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 464
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df0d097abf25be468c3e19871786baf
+      internalID: 7451105393356586130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_95
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 465
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0a58b9ff092684b94c17e399c0c4cf
+      internalID: -4056776264780624935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_96
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 465
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352cc59df23ba404a961917b764d7dc6
+      internalID: 8787081084633390522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_97
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 465
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096244db3b3c06e45bc922fd810602cf
+      internalID: -8685571065403585772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_98
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 465
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0610f666d16e80b47aab4dcbc04247de
+      internalID: -1432809662216497307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_99
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 417
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb768553f4d6749af0ff03e2df9555
+      internalID: 6901159681569977032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_100
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 421
+        width: 25
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb817df26f23d94c8d05210bb02fdaa
+      internalID: -1049834622049595519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_101
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 417
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb962e7635b7254b81fcdc937629e6e
+      internalID: 3579834735173303826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_102
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 417
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b223dfc3198ee20459925986a8b82bd8
+      internalID: -1722230348972476766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_103
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 417
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6a54c7d5ea46a46b3cda0da0d51bcb
+      internalID: 5265832952047135965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_104
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 419
+        width: 24
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ac856e4330eca4e83c1f0fc1ab5788
+      internalID: -4453082317955824337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_105
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 418
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1930121d719dd5741ab38ad1e8bb0804
+      internalID: -4543664502454360831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_106
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 418
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cf5c4b6e77f6c4f8f5fc9b66977d21
+      internalID: -8772772919163905559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_107
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 417
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1900d7da4ebf0da439b37373582693f6
+      internalID: 5535791619518538670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_108
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 417
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c942f6f5cf02cc4fa804402846e973d
+      internalID: -1722465156640739966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_109
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 369
+        width: 24
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48455d2501ebe9e4ab2ce4d1a828a9d5
+      internalID: 4174608826942265892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_110
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 369
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11f240b20b26fc4fa7d6de2976bb750
+      internalID: -8089340550670536987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_111
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 369
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29f26e56b58d5c4bacced56d78614ff
+      internalID: -4177702324424960220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_112
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 373
+        width: 42
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ed1219d53766a4d8bd98744337b925
+      internalID: 8297901235761435159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_113
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 369
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fad64dbf91d5b74a9247c36777e3966
+      internalID: -4960332156025806237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_114
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 369
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737dd7eb4c970884e8375e0491424fea
+      internalID: 2962805246777847237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_115
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 369
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac8a695e9fe5ab40b1c88fbbfd71abd
+      internalID: 2768496842006377259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_116
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 374
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76feca726f45fed4587cdba224ab858e
+      internalID: 1748411811764435221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_117
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 369
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ad48c7551d1ec4b973c9c8f96c74cb
+      internalID: -1099168090927070324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_118
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 369
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcdd4838958ba448a043e6f81df8b08
+      internalID: -808456536348974227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_119
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 321
+        width: 23
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bcf98f9a733af47862c36c296bc9d6
+      internalID: 4459913989548837874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_120
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 321
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ec846fca9ae78479b6788d4374b413
+      internalID: 323735401235097302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_121
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 321
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668cdacd96eb4ba458daba6ad2a256a6
+      internalID: 4731789248702781112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_122
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 321
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eb7e5adf0a698459b15dd642c7ab7f
+      internalID: 5963711152322769364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_123
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 321
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716d1c745e8c7554caa5c6b51816edc5
+      internalID: 9138198106904501826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_124
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 321
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea68a518f3063545b876f5da5edc044
+      internalID: 4062198264238311964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_125
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 321
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d4ebb418f7b7249a98e5b1917890cc
+      internalID: 8267876469548360844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_126
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 321
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddc851f259140241893bf5e74e7abfc
+      internalID: 7158744892012767338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_127
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 327
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be25243048bed7448f1009a03a94aa5
+      internalID: 4002432897819566203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_128
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 322
+        width: 37
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5df0fc4529fa443a4e3d299b14c361
+      internalID: -3187628864474527226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_129
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 321
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb588e0b0e98ceb4e8256349335dad69
+      internalID: -9004704126825398680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_130
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 274
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc38965127c82af40935435e8f0a0bd3
+      internalID: -1443713416427113186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_131
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 274
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae51ac8b26ff3d74586818edcbd21511
+      internalID: -8753005025015795125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_132
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 208
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de56625c68d294a4ca02865f81f5a017
+      internalID: -6567450737352720247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_133
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 209
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340df6dd9d1941a45872195326365574
+      internalID: -6357011160393505959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_134
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 208
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4585d34e6021c84789f089fd5d3808f
+      internalID: 6783213043369277414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_135
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 208
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7382af25acc1134998b9994e5a5b998
+      internalID: -3265010316465111372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 209
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2858b1a150b2d743a6f6c5410920928
+      internalID: -244432011873230823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_137
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 208
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94dbf5f8a3d96642af31cc7a56e441a
+      internalID: 8787279403746527886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_138
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 209
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fef99cfc3689074cbddfebe51494c39
+      internalID: -8757356315289175442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_139
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 209
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1715db3249ff6d645816392840593115
+      internalID: 6439672360888634394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_140
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 209
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421a78cf0496522459f471a2362d6370
+      internalID: 1941680554234531072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_141
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 209
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9870017e7a692354ca4f84541e8262f8
+      internalID: 6922960543373962869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_142
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 161
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1103decd93328542b230dcfe88281af
+      internalID: -6398610562991904428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_143
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 165
+        width: 25
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d0d7a0c808fd40983ca122c51fb5b
+      internalID: 9052402741389788243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_144
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 161
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747dad41b80db1c459b30e04bf8f6933
+      internalID: -6859073209335549738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_145
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 161
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50c08e89c255bb45aa46f2451efeb56
+      internalID: -6061309928948827327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_146
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 161
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4293793e03f154981ffcd447ba0d5a
+      internalID: 2240022012546986024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_147
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 163
+        width: 24
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516e612481b431749b782cf4439043f6
+      internalID: -7713859362399622118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_148
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 162
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ea3a5a56c6221449d98020489bf9f0
+      internalID: 8781033708866436305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_149
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 162
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1531da5c008d9044d876e82b5f7ea762
+      internalID: -580951783568904832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_150
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 161
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35b1c733cd3e3a4082ec590d163c9f6
+      internalID: 5528689471996714886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_151
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 161
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce4b18d0158d43488062a4a551b3fe9
+      internalID: 7665975407106110990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_152
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 113
+        width: 24
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f041d45fd198194cb994885e28a8d73
+      internalID: 2467381431582710411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_153
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 113
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4b7932d9ed15742b5c8374eb032906
+      internalID: 2196885330769717811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_154
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 113
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5260ace8aaac3b4dab15cf6efc8293a
+      internalID: 6452962360332731878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_155
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 117
+        width: 42
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4538074d97c6aca4c82b900ca44cdeb9
+      internalID: -2907372148532716775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_156
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 113
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d73cd1609f003c4fb7643c5c017c78a
+      internalID: 3816694122150430052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_157
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 113
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ec0b9363d27164e8a121e7ee9a46e9
+      internalID: -5522627587027737005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_158
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 113
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf6b35fec752a0409ced0d813c1e1aa
+      internalID: -7629045827824606817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_159
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 118
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493dc819843a6084496b35666d86f34c
+      internalID: -7596858069565244691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_160
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 113
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5ebc1a15eccbe4c98d0c5a58c8e6c6
+      internalID: 6460785670866656434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_161
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 113
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a66d0fafab31e1438cc570eed968649
+      internalID: 3008792454800577591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_162
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 65
+        width: 23
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab3d05e5f4bb1a4ba31956f5aec6890
+      internalID: -829485589470595888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_163
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 65
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d88cbb66df400f48aa6db9da5452bf7
+      internalID: 5556003463646037794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_164
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 65
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97194a4e170801f4fa3010d4f97349a3
+      internalID: 6574793905517290166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_165
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 65
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc432c7fbf2caa1459fa88206726f7df
+      internalID: 8849522796505346140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_166
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 65
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf9d83241be1a8458c76b2a5afb6f58
+      internalID: -5855661871640489003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_167
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 65
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86819fa03616ee04897decbef82658ce
+      internalID: -7526895041386665890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_168
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 65
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ea24d36dd2ca04f99ba652ed6ca91c
+      internalID: 7301528193519112601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_169
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 65
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e876712249299374b8f0aa66620604b3
+      internalID: -205370691465377858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_170
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 71
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c7b04a756983f49b1ced9eecbd72ce
+      internalID: -8706552140069311872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_171
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 66
+        width: 37
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa796fd0a3d3b4d498970beeafdd80ba
+      internalID: -8274987641433417939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_172
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 65
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab0368cbd57a3046b407766c8507dd4
+      internalID: 6300085870722003426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_173
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 18
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec7694436a137642be3ab99c2f2a04c
+      internalID: 8947792207677255505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Mog Moogle_174
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 18
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b40cddede43d7c45b4ad264e1366736
+      internalID: 4017637927586271164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

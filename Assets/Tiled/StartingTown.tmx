@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.5" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="48" tileheight="48" infinite="0" nextlayerid="52" nextobjectid="35">
+ <tileset firstgid="1" source="A1.tsx"/>
+ <tileset firstgid="193" source="Cliffs.tsx"/>
+ <tileset firstgid="677" source="B3.tsx"/>
+ <tileset firstgid="933" source="B2.tsx"/>
+ <tileset firstgid="1189" source="B1.tsx"/>
+ <tileset firstgid="1445" source="House.tsx"/>
+ <tileset firstgid="1669" source="B4.tsx"/>
+ <tileset firstgid="1925" source="NewTile.tsx"/>
+ <tileset firstgid="2181" source="Spring_Summer.tsx"/>
+ <tileset firstgid="2437" source="Collision.tsx"/>
+ <layer id="41" name="Background" width="50" height="50">
+  <properties>
+   <property name="unity:SortingLayer" value="Background"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt0rcVgEAAw9Aj9sSeuP+IeAv7eCrUqP5NKaVVnerVoEbVVPYnNatFrWpTe4X/UKe61K0e9Vb43R5whavk7/aAK1wlf7cHXOEq+bs94ApXyd/tAVe4Sv5uD7jCVfJ3e8AVrpK/2wOucJX83R5whavk7/aAK1wlf7cHXOEq+bs94Oqfrj6WYLqH
+  </data>
+ </layer>
+ <layer id="42" name="Land" width="50" height="50">
+  <properties>
+   <property name="unity:SortingLayer" value="Land"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztWEFSwzAMdHulhTPQSwocgN5TXgA/gG/0B+4L+gRufUJfRHkD3JCm1VSjkRPZTSYJ453ZSe2pI60Vy7bmY+fmmZmZmZmZmZmZtXwA3gf68Lk8sms/Q76Tfy/AkrV5Hz6/Rgd27bOmgfzbA79HJ19lH/6+dgd27bfk3fjgJ/m3Ba7cqc378Pl4ZNd+azq4fzvgmrV5Hz4JXfut6eD+ES6gfxLgtAd+azo0FDVjuvbbogNjcTkgHZSrYmLRJx20X6AGzFUxseiLDooB7QvbSA190cH3i63IpXXfE/GqJzpov0ANP6Dpd2SPRV+o7RdD00DfhNzXhqbhP5Gf0YnyvjEE4vrgZ3J8WvNUypy1FQPcO/iZHFm2FBOcM3knO8cOvm/P7kT8TI5sKyY89hT/QsyrVRft3/xOJLFqKSZoV97JSuGPNV60f/M7kcS6gZhI+2RX3skoLrK9Z/EK6dBikBKTUL0E51faD9ml+zFv83hV6dBiEBsTXo/g9RKad63GEor9TrR5vOR7+PusWCnzQbUryhWyXkLzrtVYUiDjU7WuQ8C5qapdafUSmnetxmLFRvgg82loXVehqnYl6yX0TWn2pd3p2Hk4y3k4k3pp8zPSRwTXTjWRKfv2qmpXHDE5BAH/9TDGF4oOjlCdhvuI4NoL9o0TLLUrhLaWN+I/FIPJUYNFR1W+sowJ6X4FviljtbUsv4875r9VR0q+0rRL3e/AD2WsZS2Dbb8ULGt0pOQrTbs1T1tyCNj2M+At8AYI/njws1JHSr4i7WDDgS03c3H5sg5g2y+Az8AnIPjj14oOua7qIP9P2sGGA1tu4eLzdBOIzbspeRoRWuuWeQyNbRoWO6G1rs2LfF9obNNo2s6577Pug31Hyj54Dv4AAD2Agw==
+  </data>
+ </layer>
+ <group id="24" name="OverLand">
+  <layer id="43" name="OverLand" width="50" height="50">
+   <properties>
+    <property name="unity:SortingLayer" value="Land"/>
+   </properties>
+   <data encoding="base64" compression="zlib">
+   eJztmLFOwzAQQE1ZEpU/KCNbGdnKAmsRP1D+A8abWv6AD+IX2GBkK39QBq5CFtHFac6uzzkHPylqpNrXe7n64sSYQiE9b5X7nDvXd44UoR7H+Etgr6nvtdXo4TqPMe/+5O+IDY0ruT5SeKQ+ikdc55yhHq61oKFX9eHyoH0hVw/72TwP5fXUwFEJMhnz/4oyhEeufZPyX+4Xlhw9XPvdrrzoWtC0xl25uDxonw3tu9hrReDWo2tfrKUm3Hq4xg7t4NprcNaHHd/8HJK+ntLXfzQ47BnLPWMsHjHR6vFZ/R57NmQdrKv2Plu7h3W5qY25rdtOFq0eTdYk94u6PabLQ+q+zeXQM9qVh0duhHpIP9O+T4z5mPDH+3pgbMDfgKDkPNiiw5egB8aGbQKPHTp8C3pgbNhF8jjUS6b43Rmz1zziuJfG8cSYh7FhmuB9zwxzOWd6bIjHM2MexoYZ8ZBY83PM5VKwHhgb5gnqscBcrgXrgbFhkcBjibncCdYDY8MygccKc3kQrAfGhlWi97pcQuqhkZB6aKTUQxelHroo9fDnByhd1K4=
+  </data>
+  </layer>
+  <layer id="44" name="OverLand1" width="50" height="50">
+   <properties>
+    <property name="unity:SortingLayer" value="Land"/>
+   </properties>
+   <data encoding="base64" compression="zlib">
+   eJzt1kEKgCAQRuGBNKgTdFyvWzeoVTPbciHViNX7oI0Ev2+nCFBXjOezPnN2NBX8UxMdz9/ljq905JR0AAAAAFe94U1cgo620AEAAADgD5ZO0qyf945u2JabTRvWCh26YVtuxiBpCP4dumFbAICG7cCmDD8=
+  </data>
+  </layer>
+ </group>
+ <group id="10" name="OverTrees">
+  <layer id="45" name="Tree" width="50" height="50">
+   <properties>
+    <property name="unity:SortingLayer" value="AbovePlayer"/>
+   </properties>
+   <data encoding="base64" compression="zlib">
+   eJzt17ENgDAQBMEP3T90YArFDVhCcsDpNVPBbXhVPVyj6h5/rzg3V8OjI4aOLDqy6MiiI0uXDmDP/8iiI4uOLF06AAAAAAC+egFW2hk2
+  </data>
+  </layer>
+  <layer id="46" name="Tree1" width="50" height="50">
+   <properties>
+    <property name="unity:SortingLayer" value="UnderPlayer"/>
+   </properties>
+   <data encoding="base64" compression="zlib">
+   eJzt1rENACAMA7CO/P9KeyBcgGAoYrClKFvm5IiolXzUt7p2AQDY87MAgF/4JQAAAADAqQlBUh7E
+  </data>
+  </layer>
+ </group>
+ <group id="14" name="BottomTrees">
+  <layer id="47" name="BottomTree" width="50" height="50" opacity="0.48">
+   <properties>
+    <property name="unity:SortingLayer" value="AbovePlayer"/>
+   </properties>
+   <data encoding="base64" compression="zlib">
+   eJztzscNwlAUBdG/pHRSAYApADAFkAowoQATCiAVwUjevgaemCPN4u5uKZIkSZIkSZL0f/q9UgY0pBGNg53BhJ9TmlFF82BnsODnklZU0zrYGWz4uaUd7ekQ7Awafh7pRGe6BDuDlp9XutGdHsHO4MnPF73pQ99gS5IkSZI6PxdNL80=
+  </data>
+  </layer>
+  <layer id="48" name="BottomTree1" width="50" height="50">
+   <properties>
+    <property name="unity:SortingLayer" value="AbovePlayer"/>
+   </properties>
+   <data encoding="base64" compression="zlib">
+   eJztzjeRA1AQBNEfLnQ5AHIATgaAHAA5AHIA5EBcpwthS/2qOploWpMkSZIkSZKk39KL1vo0oA51I29VjPk6oSkNaRR5q2LO1wUt6Y9mkbcqNnzd0o5WtI68VXHk64nOtKdD5K2KG1/v9KALXSNvVbz5+qEvPekVeZMkSZIkZf9l0SqG
+  </data>
+  </layer>
+  <layer id="49" name="BottomTree2" width="50" height="50">
+   <properties>
+    <property name="unity:SortingLayer" value="AbovePlayer"/>
+   </properties>
+   <data encoding="base64" compression="zlib">
+   eJztz8ENglAURNG/pHa0ArECsQK0AqECtQK0CKYAdyzMS85J7n6mNQAAAAAAYK++a+2Qjt2/l+xzyv4hnYv/uGT/mK7Ff0zZf0v34j8e2T+npfiPZ/a/0rv4jzX7P+lb/AcAAPyyAUscEAA=
+  </data>
+  </layer>
+ </group>
+ <objectgroup id="50" name="Collision">
+  <object id="21" name="Collision" type="Collision" x="12" y="1556" width="416" height="60"/>
+  <object id="22" name="Collision" type="Collision" x="3" y="97" width="94" height="572"/>
+  <object id="23" name="Collision" type="Collision" x="6" y="870" width="97" height="333"/>
+  <object id="26" name="Collision" type="Collision" x="0" y="-3" width="1339" height="51"/>
+  <object id="27" name="Collision" type="Collision" x="1915" y="-6" width="485" height="54"/>
+  <object id="28" type="Collision" x="-112" y="-6" width="109" height="2406"/>
+  <object id="29" type="Collision" x="-4" y="2400" width="2404" height="100"/>
+  <object id="30" type="Collision" x="2400" y="-4" width="80" height="2396"/>
+ </objectgroup>
+ <layer id="51" name="Collision" width="50" height="50" opacity="0">
+  <data encoding="base64" compression="zlib">
+   eJztmFsKhDAMRWX+XIhLnX2LiCCSYqq3k9zMPdAfqW0OTZ/TJIQQQggh/onvvBfr27lkxIqTIe4rLHHe4ckjhvGxPHrqZ6HXIyvnuJkd2D3Y86m117FhxVzBg9Fhg2FPEyKKCvOjdbb9VX+I9lptjvZAjb3nf7TL8rHPbm/uMhEeR5vevj11vTGOyGVkfZRHTy48nQ+IOYy8zz4dW9RadPfmMBqkR+QbScTegIb1neaKPPJRYX5syCMX8shFBY8q626ExwqyN0y0
+  </data>
+ </layer>
+</map>

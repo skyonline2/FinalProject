@@ -1,0 +1,4039 @@
+fileFormatVersion: 2
+guid: ac0d7824b3d8c0f41ad41e225916ef75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -876075347858347318
+    second: Mobile - Final Fantasy 6 - Umaro_0
+  - first:
+      213: -8370980957804677397
+    second: Mobile - Final Fantasy 6 - Umaro_1
+  - first:
+      213: 2227057807406779362
+    second: Mobile - Final Fantasy 6 - Umaro_2
+  - first:
+      213: 412205629469919002
+    second: Mobile - Final Fantasy 6 - Umaro_3
+  - first:
+      213: 7005834717037940011
+    second: Mobile - Final Fantasy 6 - Umaro_4
+  - first:
+      213: -845889490551541264
+    second: Mobile - Final Fantasy 6 - Umaro_5
+  - first:
+      213: 425268495963619399
+    second: Mobile - Final Fantasy 6 - Umaro_6
+  - first:
+      213: -6860304610361430027
+    second: Mobile - Final Fantasy 6 - Umaro_7
+  - first:
+      213: 5893995122213334078
+    second: Mobile - Final Fantasy 6 - Umaro_8
+  - first:
+      213: -555543894080372926
+    second: Mobile - Final Fantasy 6 - Umaro_9
+  - first:
+      213: -7200360694429956225
+    second: Mobile - Final Fantasy 6 - Umaro_10
+  - first:
+      213: 6646989120962387347
+    second: Mobile - Final Fantasy 6 - Umaro_11
+  - first:
+      213: -3017198091312047782
+    second: Mobile - Final Fantasy 6 - Umaro_12
+  - first:
+      213: 1500254406038796866
+    second: Mobile - Final Fantasy 6 - Umaro_13
+  - first:
+      213: 4607279727138863496
+    second: Mobile - Final Fantasy 6 - Umaro_14
+  - first:
+      213: -6443461888664299526
+    second: Mobile - Final Fantasy 6 - Umaro_15
+  - first:
+      213: -6469132316258809032
+    second: Mobile - Final Fantasy 6 - Umaro_16
+  - first:
+      213: -9037656527147053443
+    second: Mobile - Final Fantasy 6 - Umaro_17
+  - first:
+      213: 2254844375286235337
+    second: Mobile - Final Fantasy 6 - Umaro_18
+  - first:
+      213: -7636893856118472731
+    second: Mobile - Final Fantasy 6 - Umaro_19
+  - first:
+      213: -1726757465940066708
+    second: Mobile - Final Fantasy 6 - Umaro_20
+  - first:
+      213: 2604163935812394800
+    second: Mobile - Final Fantasy 6 - Umaro_21
+  - first:
+      213: -749610220413400712
+    second: Mobile - Final Fantasy 6 - Umaro_22
+  - first:
+      213: 3293025509357924855
+    second: Mobile - Final Fantasy 6 - Umaro_23
+  - first:
+      213: -8254053097578468580
+    second: Mobile - Final Fantasy 6 - Umaro_24
+  - first:
+      213: -7355038268861450944
+    second: Mobile - Final Fantasy 6 - Umaro_25
+  - first:
+      213: -2761486267638224229
+    second: Mobile - Final Fantasy 6 - Umaro_26
+  - first:
+      213: -8149826000723955083
+    second: Mobile - Final Fantasy 6 - Umaro_27
+  - first:
+      213: -5113049321087785201
+    second: Mobile - Final Fantasy 6 - Umaro_28
+  - first:
+      213: -7416728472604578182
+    second: Mobile - Final Fantasy 6 - Umaro_29
+  - first:
+      213: 224661605843919559
+    second: Mobile - Final Fantasy 6 - Umaro_30
+  - first:
+      213: -4215501976727332259
+    second: Mobile - Final Fantasy 6 - Umaro_31
+  - first:
+      213: 6724068382422359292
+    second: Mobile - Final Fantasy 6 - Umaro_32
+  - first:
+      213: 605362499199833202
+    second: Mobile - Final Fantasy 6 - Umaro_33
+  - first:
+      213: -2245117988527062763
+    second: Mobile - Final Fantasy 6 - Umaro_34
+  - first:
+      213: -8677045006797551717
+    second: Mobile - Final Fantasy 6 - Umaro_35
+  - first:
+      213: -4278675967813141886
+    second: Mobile - Final Fantasy 6 - Umaro_36
+  - first:
+      213: 6693385166191194425
+    second: Mobile - Final Fantasy 6 - Umaro_37
+  - first:
+      213: -6572946000933081827
+    second: Mobile - Final Fantasy 6 - Umaro_38
+  - first:
+      213: -823443872996857955
+    second: Mobile - Final Fantasy 6 - Umaro_39
+  - first:
+      213: -5316319348751070150
+    second: Mobile - Final Fantasy 6 - Umaro_40
+  - first:
+      213: 782629817989720915
+    second: Mobile - Final Fantasy 6 - Umaro_41
+  - first:
+      213: 6776509907014854667
+    second: Mobile - Final Fantasy 6 - Umaro_42
+  - first:
+      213: 2495996210156182339
+    second: Mobile - Final Fantasy 6 - Umaro_43
+  - first:
+      213: -3830460463271367473
+    second: Mobile - Final Fantasy 6 - Umaro_44
+  - first:
+      213: 1608077848149618808
+    second: Mobile - Final Fantasy 6 - Umaro_45
+  - first:
+      213: -1117941541280610058
+    second: Mobile - Final Fantasy 6 - Umaro_46
+  - first:
+      213: 6452599801750346334
+    second: Mobile - Final Fantasy 6 - Umaro_47
+  - first:
+      213: -8450244832651906394
+    second: Mobile - Final Fantasy 6 - Umaro_48
+  - first:
+      213: -3166899585180271955
+    second: Mobile - Final Fantasy 6 - Umaro_49
+  - first:
+      213: 7695031960674770611
+    second: Mobile - Final Fantasy 6 - Umaro_50
+  - first:
+      213: -6364107984935170188
+    second: Mobile - Final Fantasy 6 - Umaro_51
+  - first:
+      213: -9116585428947429409
+    second: Mobile - Final Fantasy 6 - Umaro_52
+  - first:
+      213: -8454383510965269373
+    second: Mobile - Final Fantasy 6 - Umaro_53
+  - first:
+      213: 7834704215422032686
+    second: Mobile - Final Fantasy 6 - Umaro_54
+  - first:
+      213: -7330265801966132478
+    second: Mobile - Final Fantasy 6 - Umaro_55
+  - first:
+      213: 94462355834616121
+    second: Mobile - Final Fantasy 6 - Umaro_56
+  - first:
+      213: -4846596259575805008
+    second: Mobile - Final Fantasy 6 - Umaro_57
+  - first:
+      213: -7145980555526819504
+    second: Mobile - Final Fantasy 6 - Umaro_58
+  - first:
+      213: -1106566348820973698
+    second: Mobile - Final Fantasy 6 - Umaro_59
+  - first:
+      213: -5846150054117840225
+    second: Mobile - Final Fantasy 6 - Umaro_60
+  - first:
+      213: 712580542612680204
+    second: Mobile - Final Fantasy 6 - Umaro_61
+  - first:
+      213: -8690479418092603369
+    second: Mobile - Final Fantasy 6 - Umaro_62
+  - first:
+      213: -7421161099204300156
+    second: Mobile - Final Fantasy 6 - Umaro_63
+  - first:
+      213: -9073714453186088339
+    second: Mobile - Final Fantasy 6 - Umaro_64
+  - first:
+      213: 6394014346620520776
+    second: Mobile - Final Fantasy 6 - Umaro_65
+  - first:
+      213: 2329740297605816843
+    second: Mobile - Final Fantasy 6 - Umaro_66
+  - first:
+      213: -7479430926254426803
+    second: Mobile - Final Fantasy 6 - Umaro_67
+  - first:
+      213: -6548394848333741069
+    second: Mobile - Final Fantasy 6 - Umaro_68
+  - first:
+      213: -5386711168525905809
+    second: Mobile - Final Fantasy 6 - Umaro_69
+  - first:
+      213: 5588024269966664078
+    second: Mobile - Final Fantasy 6 - Umaro_70
+  - first:
+      213: 241717514964673239
+    second: Mobile - Final Fantasy 6 - Umaro_71
+  - first:
+      213: 6390177086648516604
+    second: Mobile - Final Fantasy 6 - Umaro_72
+  - first:
+      213: -3778539795683457220
+    second: Mobile - Final Fantasy 6 - Umaro_73
+  - first:
+      213: -3734789978796404891
+    second: Mobile - Final Fantasy 6 - Umaro_74
+  - first:
+      213: 6082419960432204185
+    second: Mobile - Final Fantasy 6 - Umaro_75
+  - first:
+      213: 1187708328121388243
+    second: Mobile - Final Fantasy 6 - Umaro_76
+  - first:
+      213: -3005937754754598451
+    second: Mobile - Final Fantasy 6 - Umaro_77
+  - first:
+      213: -5805218663536181590
+    second: Mobile - Final Fantasy 6 - Umaro_78
+  - first:
+      213: 9167991355918459876
+    second: Mobile - Final Fantasy 6 - Umaro_79
+  - first:
+      213: 8249150460141989403
+    second: Mobile - Final Fantasy 6 - Umaro_80
+  - first:
+      213: 8510785424747702611
+    second: Mobile - Final Fantasy 6 - Umaro_81
+  - first:
+      213: -1355610823297639245
+    second: Mobile - Final Fantasy 6 - Umaro_82
+  - first:
+      213: 5420782443744674602
+    second: Mobile - Final Fantasy 6 - Umaro_83
+  - first:
+      213: 2104317532698211826
+    second: Mobile - Final Fantasy 6 - Umaro_84
+  - first:
+      213: -2672923183559284282
+    second: Mobile - Final Fantasy 6 - Umaro_85
+  - first:
+      213: -824591067786966364
+    second: Mobile - Final Fantasy 6 - Umaro_86
+  - first:
+      213: 2440504030105073430
+    second: Mobile - Final Fantasy 6 - Umaro_87
+  - first:
+      213: 372585991693433458
+    second: Mobile - Final Fantasy 6 - Umaro_88
+  - first:
+      213: 6297975911115636517
+    second: Mobile - Final Fantasy 6 - Umaro_89
+  - first:
+      213: -2593316904172405513
+    second: Mobile - Final Fantasy 6 - Umaro_90
+  - first:
+      213: -2791100759999132303
+    second: Mobile - Final Fantasy 6 - Umaro_91
+  - first:
+      213: -6743215031071629541
+    second: Mobile - Final Fantasy 6 - Umaro_92
+  - first:
+      213: 768213103387445929
+    second: Mobile - Final Fantasy 6 - Umaro_93
+  - first:
+      213: -781337385561071558
+    second: Mobile - Final Fantasy 6 - Umaro_94
+  - first:
+      213: 4230948441160746885
+    second: Mobile - Final Fantasy 6 - Umaro_95
+  - first:
+      213: -7396093304729638295
+    second: Mobile - Final Fantasy 6 - Umaro_96
+  - first:
+      213: 9041605654387730891
+    second: Mobile - Final Fantasy 6 - Umaro_97
+  - first:
+      213: -6070602527875495387
+    second: Mobile - Final Fantasy 6 - Umaro_98
+  - first:
+      213: -5263572421779269673
+    second: Mobile - Final Fantasy 6 - Umaro_99
+  - first:
+      213: 7928703741867472932
+    second: Mobile - Final Fantasy 6 - Umaro_100
+  - first:
+      213: 4252165582133352368
+    second: Mobile - Final Fantasy 6 - Umaro_101
+  - first:
+      213: 5266429045302356993
+    second: Mobile - Final Fantasy 6 - Umaro_102
+  - first:
+      213: 3678482940353599682
+    second: Mobile - Final Fantasy 6 - Umaro_103
+  - first:
+      213: -8616063709447192789
+    second: Mobile - Final Fantasy 6 - Umaro_104
+  - first:
+      213: -6561557037926744707
+    second: Mobile - Final Fantasy 6 - Umaro_105
+  - first:
+      213: 5143282434554011318
+    second: Mobile - Final Fantasy 6 - Umaro_106
+  - first:
+      213: 3687545368728233517
+    second: Mobile - Final Fantasy 6 - Umaro_107
+  - first:
+      213: 1706054029005985144
+    second: Mobile - Final Fantasy 6 - Umaro_108
+  - first:
+      213: 411006834155111024
+    second: Mobile - Final Fantasy 6 - Umaro_109
+  - first:
+      213: 8300816578710957625
+    second: Mobile - Final Fantasy 6 - Umaro_110
+  - first:
+      213: -5594449704889429292
+    second: Mobile - Final Fantasy 6 - Umaro_111
+  - first:
+      213: 5804052170845606706
+    second: Mobile - Final Fantasy 6 - Umaro_112
+  - first:
+      213: -6148580947323390855
+    second: Mobile - Final Fantasy 6 - Umaro_113
+  - first:
+      213: 4701290058329659947
+    second: Mobile - Final Fantasy 6 - Umaro_114
+  - first:
+      213: -7598952091015217470
+    second: Mobile - Final Fantasy 6 - Umaro_115
+  - first:
+      213: -8203196486017498991
+    second: Mobile - Final Fantasy 6 - Umaro_116
+  - first:
+      213: -1923891763486892606
+    second: Mobile - Final Fantasy 6 - Umaro_117
+  - first:
+      213: -2484135444783849059
+    second: Mobile - Final Fantasy 6 - Umaro_118
+  - first:
+      213: 3372259331553647163
+    second: Mobile - Final Fantasy 6 - Umaro_119
+  - first:
+      213: -1752650898856706002
+    second: Mobile - Final Fantasy 6 - Umaro_120
+  - first:
+      213: 6518341065511868983
+    second: Mobile - Final Fantasy 6 - Umaro_121
+  - first:
+      213: -7914440443154550942
+    second: Mobile - Final Fantasy 6 - Umaro_122
+  - first:
+      213: 8939846196844148480
+    second: Mobile - Final Fantasy 6 - Umaro_123
+  - first:
+      213: 1948180521483501475
+    second: Mobile - Final Fantasy 6 - Umaro_124
+  - first:
+      213: -1718329063717836518
+    second: Mobile - Final Fantasy 6 - Umaro_125
+  - first:
+      213: -7791575038992657578
+    second: Mobile - Final Fantasy 6 - Umaro_126
+  - first:
+      213: 8626571410670422351
+    second: Mobile - Final Fantasy 6 - Umaro_127
+  - first:
+      213: -9101974904709950497
+    second: Mobile - Final Fantasy 6 - Umaro_128
+  - first:
+      213: 3917775669097040791
+    second: Mobile - Final Fantasy 6 - Umaro_129
+  - first:
+      213: -7668254150307237431
+    second: Mobile - Final Fantasy 6 - Umaro_130
+  - first:
+      213: 3453632493657917016
+    second: Mobile - Final Fantasy 6 - Umaro_131
+  - first:
+      213: -8708453401215363490
+    second: Mobile - Final Fantasy 6 - Umaro_132
+  - first:
+      213: -9167461504450591675
+    second: Mobile - Final Fantasy 6 - Umaro_133
+  - first:
+      213: 704192531146819590
+    second: Mobile - Final Fantasy 6 - Umaro_134
+  - first:
+      213: -5410206674363822206
+    second: Mobile - Final Fantasy 6 - Umaro_135
+  - first:
+      213: -5552100132735762050
+    second: Mobile - Final Fantasy 6 - Umaro_136
+  - first:
+      213: 1818101504715799402
+    second: Mobile - Final Fantasy 6 - Umaro_137
+  - first:
+      213: -8261085986543635502
+    second: Mobile - Final Fantasy 6 - Umaro_138
+  - first:
+      213: -3124720236122148079
+    second: Mobile - Final Fantasy 6 - Umaro_139
+  - first:
+      213: -1408467911476149936
+    second: Mobile - Final Fantasy 6 - Umaro_140
+  - first:
+      213: 9097995869420350160
+    second: Mobile - Final Fantasy 6 - Umaro_141
+  - first:
+      213: 3411553354643664554
+    second: Mobile - Final Fantasy 6 - Umaro_142
+  - first:
+      213: -3431899677214812680
+    second: Mobile - Final Fantasy 6 - Umaro_143
+  - first:
+      213: -7830475175907756237
+    second: Mobile - Final Fantasy 6 - Umaro_144
+  - first:
+      213: 1418510900705791569
+    second: Mobile - Final Fantasy 6 - Umaro_145
+  - first:
+      213: -194582578039163842
+    second: Mobile - Final Fantasy 6 - Umaro_146
+  - first:
+      213: -6985492620670520824
+    second: Mobile - Final Fantasy 6 - Umaro_147
+  - first:
+      213: 8341088391042444394
+    second: Mobile - Final Fantasy 6 - Umaro_148
+  - first:
+      213: 2769758042963687241
+    second: Mobile - Final Fantasy 6 - Umaro_149
+  - first:
+      213: 795549047437927934
+    second: Mobile - Final Fantasy 6 - Umaro_150
+  - first:
+      213: 282937689678398926
+    second: Mobile - Final Fantasy 6 - Umaro_151
+  - first:
+      213: -3784658990389832223
+    second: Mobile - Final Fantasy 6 - Umaro_152
+  - first:
+      213: -2336626320678279641
+    second: Mobile - Final Fantasy 6 - Umaro_153
+  - first:
+      213: 6680939598445411391
+    second: Mobile - Final Fantasy 6 - Umaro_154
+  - first:
+      213: 4138501460170152280
+    second: Mobile - Final Fantasy 6 - Umaro_155
+  - first:
+      213: -296791044356977354
+    second: Mobile - Final Fantasy 6 - Umaro_156
+  - first:
+      213: 3511226049186874712
+    second: Mobile - Final Fantasy 6 - Umaro_157
+  - first:
+      213: 7968802037460693733
+    second: Mobile - Final Fantasy 6 - Umaro_158
+  - first:
+      213: 1524278036709594876
+    second: Mobile - Final Fantasy 6 - Umaro_159
+  - first:
+      213: 7548334612496031062
+    second: Mobile - Final Fantasy 6 - Umaro_160
+  - first:
+      213: -6516342264223483303
+    second: Mobile - Final Fantasy 6 - Umaro_161
+  - first:
+      213: 3399130158096172976
+    second: Mobile - Final Fantasy 6 - Umaro_162
+  - first:
+      213: 8013586908154634868
+    second: Mobile - Final Fantasy 6 - Umaro_163
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 976
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c654e0af4e973e439afa8d4a2c9ab1f
+      internalID: -876075347858347318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 977
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debe8a6698ca58c4a86b982f6782882f
+      internalID: -8370980957804677397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 976
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182daa1c5c08790478fbb8936d4d933e
+      internalID: 2227057807406779362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 976
+        width: 29
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f547d25a94b26044b9df749c4d84346
+      internalID: 412205629469919002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 977
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3499868a054270c4f9a29b7abbc8305c
+      internalID: 7005834717037940011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 976
+        width: 29
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2bd465ddd77c340bf9314fefee3580
+      internalID: -845889490551541264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 977
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4069f054a00c74a8726d896c20da38
+      internalID: 425268495963619399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 977
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc47c38225ce78142b5431cb3328e65d
+      internalID: -6860304610361430027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 977
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6c1f20e659d8c4bafd18a907e4f583
+      internalID: 5893995122213334078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 977
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f043d004b28da04caeb702df27672c6
+      internalID: -555543894080372926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 929
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34e970aed812fa4facf804d8da129e2
+      internalID: -7200360694429956225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 931
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c414e9ef2e62641954fab521aa4491
+      internalID: 6646989120962387347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 929
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023779ef2d3f85442b9551905c37fbbd
+      internalID: -3017198091312047782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 929
+        width: 27
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1bd29f4d5bed142b67d72e1e71d52c
+      internalID: 1500254406038796866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 929
+        width: 34
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d5851a24c18e948bfc750bddaa37db
+      internalID: 4607279727138863496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 929
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b025d1485dfa5ba4589c0789b4ce9912
+      internalID: -6443461888664299526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 928
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b84223f0f65d1a4aa96ec8dd2b2ed60
+      internalID: -6469132316258809032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_17
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 881
+        width: 41
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92782f819ec4628419f2dbb16176c243
+      internalID: -9037656527147053443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_18
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 929
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173be7b03d5863747aba6db1924dd08a
+      internalID: 2254844375286235337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_19
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 929
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5df3ceb4c0275499dc94239e966c34
+      internalID: -7636893856118472731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 881
+        width: 35
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6c142cd1e92fa48854783addee32f5
+      internalID: -1726757465940066708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 881
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c11fc5493c1e34c8e7690d34109a88
+      internalID: 2604163935812394800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 881
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ddb2630cd06be478379629c307558c
+      internalID: -749610220413400712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 880
+        width: 47
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdea53d93e6364442b5c3cebdf435b55
+      internalID: 3293025509357924855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 881
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99736839feb12e648803162ac16af0fa
+      internalID: -8254053097578468580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 881
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8204a1caeb450141b4f4ce5c084212a
+      internalID: -7355038268861450944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 881
+        width: 34
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4265527894b3140bcba9271349e6b2
+      internalID: -2761486267638224229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_27
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 881
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b689ed05aab964aa5da617d650c606
+      internalID: -8149826000723955083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_28
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 881
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817b3833a92ae964b9bbd69645cbc813
+      internalID: -5113049321087785201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 833
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a974cb223a4fa48449b189408385b40c
+      internalID: -7416728472604578182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 833
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dc4f9f3cc7efd4a86215fd0b236220
+      internalID: 224661605843919559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 833
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c074703e725adc47a27d13ad7ba2b00
+      internalID: -4215501976727332259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 833
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf57d16209a18644af996b2e69a0da2
+      internalID: 6724068382422359292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 833
+        width: 27
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c651e87f7ca84b84fa54bad6b48d4b08
+      internalID: 605362499199833202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 833
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63e812260c11804e9fcbacd2acee9ec
+      internalID: -2245117988527062763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_35
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 833
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb1b86c227564b4ba2240985b90625d
+      internalID: -8677045006797551717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_36
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 833
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1e81a61d8cd9c44b49fe9573793147
+      internalID: -4278675967813141886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_37
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 833
+        width: 33
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d4339e93281604fb084de8d5a02a24
+      internalID: 6693385166191194425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_38
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 834
+        width: 31
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceb6b7d59c2fb045b0738ee8aa1908e
+      internalID: -6572946000933081827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 787
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b917587f0da8ab4469529e9892824959
+      internalID: -823443872996857955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_40
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 787
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ec050c99b992942bc7464f2ffbcea7
+      internalID: -5316319348751070150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 720
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce40bb24f8986e4aa7a67cbf7d6df3f
+      internalID: 782629817989720915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_42
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 721
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50cb7fe3d053a14ca26d74523217a59
+      internalID: 6776509907014854667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 720
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4157ae2510b7d6a48b075bccf236d61d
+      internalID: 2495996210156182339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_44
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 720
+        width: 29
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac54daa164d7cd48ba2bb23934691b6
+      internalID: -3830460463271367473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_45
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 721
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92f34bc6534a784a916e724559f602c
+      internalID: 1608077848149618808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_46
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 720
+        width: 29
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a667e2447709d84e842581eda9b2299
+      internalID: -1117941541280610058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_47
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 721
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d72d0a968b0c649b20389f569ac6b3
+      internalID: 6452599801750346334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_48
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 721
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0cd44f45719ce4a8570779bb68eb97
+      internalID: -8450244832651906394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_49
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 721
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a624438a2ddf1014893ce7432cd50ab3
+      internalID: -3166899585180271955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_50
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 721
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a180c13d7f208234285a72547853c019
+      internalID: 7695031960674770611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 673
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311fa12ef84a8ed4ba6b989130ae2960
+      internalID: -6364107984935170188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_52
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 675
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179030441e52d1d4ab0e7173992e258a
+      internalID: -9116585428947429409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_53
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 673
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e18f6aad4d4e7f47ac45e9df2a5cd2d
+      internalID: -8454383510965269373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 673
+        width: 27
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4c4457f3141864a82074e05d6885f7
+      internalID: 7834704215422032686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_55
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 673
+        width: 34
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0a16d4c91e18a428e7f3ca7f957768
+      internalID: -7330265801966132478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_56
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 673
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501793942f3b2b5449a0e1435898353b
+      internalID: 94462355834616121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_57
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 672
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca70a7d2eb63e429027f33ae099526
+      internalID: -4846596259575805008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_58
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 625
+        width: 41
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd686712aee56648bf42ee8d04a408a
+      internalID: -7145980555526819504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_59
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 673
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12265b586fc1784469f79303d50c8a98
+      internalID: -1106566348820973698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_60
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 673
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1973d6d4e7885ac409cc72bfdc551b48
+      internalID: -5846150054117840225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_61
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 625
+        width: 35
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbcea02558fb0d419a9fe57d53be132
+      internalID: 712580542612680204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_62
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 625
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72c7c12fb3cf5342a5be67d4e110e8f
+      internalID: -8690479418092603369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_63
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 625
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73252ca0b2644824ba6e5c5cb0cca518
+      internalID: -7421161099204300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 47
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e87d2c74b2ade41b269399258785a5
+      internalID: -9073714453186088339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_65
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 625
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f17bd8981fc7f54cbd7856ad5a9458d
+      internalID: 6394014346620520776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_66
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 625
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14b842fbad717544a1aead0c8ec2696
+      internalID: 2329740297605816843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_67
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 625
+        width: 34
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a815826b7bcb7c643965e416acb86654
+      internalID: -7479430926254426803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_68
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 625
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ef44ee8cfddc6459a2b45402953b2a
+      internalID: -6548394848333741069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_69
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 625
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2c27f7e78c06447829db04f0f883d4
+      internalID: -5386711168525905809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_70
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 577
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01340bda58669d04ba02508fceb36c0f
+      internalID: 5588024269966664078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_71
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 577
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61bc7079ab1a934d9cec66c3a79cd7c
+      internalID: 241717514964673239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_72
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 577
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46923e0cc627e4e4f8dbc2bdfd078de1
+      internalID: 6390177086648516604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_73
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 577
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a24b6fe596430c409cdf04d0a849c8a
+      internalID: -3778539795683457220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_74
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 577
+        width: 27
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc719567d9984e48965b2f1f36acb64
+      internalID: -3734789978796404891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_75
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 577
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b30dc4a11542794f87bb8bac6cb7300
+      internalID: 6082419960432204185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_76
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 577
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64412d5bd743f094883fefa9d2d2fdbe
+      internalID: 1187708328121388243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_77
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 577
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724ed26440c01d740ad79c1988debacb
+      internalID: -3005937754754598451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_78
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 577
+        width: 33
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c633e87ba5fedd143b2c2e17ae5f2f61
+      internalID: -5805218663536181590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_79
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 578
+        width: 31
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5585015430adb341976a6e7de8fe67e
+      internalID: 9167991355918459876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 531
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d86ef90e507484ebcfebbff036abd3
+      internalID: 8249150460141989403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_81
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 531
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cf1d83038b90a41809299c906b07aa
+      internalID: 8510785424747702611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 464
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f401da3b0da7f004cba888fcf390c30c
+      internalID: -1355610823297639245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_83
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 465
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d45979d986ce5c4890b4bd0085154e0
+      internalID: 5420782443744674602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_84
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 464
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b950ae6ff2e73ed44af6b272a813ca8e
+      internalID: 2104317532698211826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_85
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 464
+        width: 29
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eae8928c54d66c459efeb88d8bb1b35
+      internalID: -2672923183559284282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_86
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 465
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1121f34308f8f8f4e8b6e3008b862fd4
+      internalID: -824591067786966364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_87
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 464
+        width: 29
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa5fdbd06b6b8b4292b326ed077f386
+      internalID: 2440504030105073430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_88
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 465
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02a0ee583b19e74dbba661654358fc6
+      internalID: 372585991693433458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_89
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 465
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0fd5ffcc96aa94fad93c507698ee05
+      internalID: 6297975911115636517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_90
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 465
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaa9d55917b3ba478732f2b1db694dc
+      internalID: -2593316904172405513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_91
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 465
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5957995e4966beb4ca4ef44668363c27
+      internalID: -2791100759999132303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 417
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9409898a757d6fd409dac3b22295b12e
+      internalID: -6743215031071629541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_93
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 419
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76fd9635d7c19c4fbeecc87ed67c544
+      internalID: 768213103387445929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_94
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 417
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30eab4de9b96ba4386697b88abb1550
+      internalID: -781337385561071558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_95
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 417
+        width: 27
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f19b631f1674e4fb3ea7240fe76115
+      internalID: 4230948441160746885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_96
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 417
+        width: 34
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e364143f6247a9438a141481cab0bb0
+      internalID: -7396093304729638295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_97
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 417
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c476735bacd8224f9c0eb4b74beae03
+      internalID: 9041605654387730891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_98
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 416
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4829414ca1725f44dac939a23e99c263
+      internalID: -6070602527875495387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_99
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 369
+        width: 41
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620ec4fbc38dabc458026d9dcab79067
+      internalID: -5263572421779269673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_100
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 417
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9dbf4e312a1c04c82a3bc0be25ca75
+      internalID: 7928703741867472932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_101
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 417
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18f99b151c8d154ba0ac3932df7005a
+      internalID: 4252165582133352368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_102
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 369
+        width: 35
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63d38778a8cfa042aa909b7c856a004
+      internalID: 5266429045302356993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_103
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 369
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410babcfe69cd2e409ea2deba1b5e3dd
+      internalID: 3678482940353599682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_104
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 369
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ee390e4f82f514cbe0de7014808bfa
+      internalID: -8616063709447192789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 368
+        width: 47
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2606381585bd2842b1bb86dd7ba58e1
+      internalID: -6561557037926744707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_106
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 369
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6b2c2b5e2fb4541ba7db1ad3e678ca
+      internalID: 5143282434554011318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_107
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 369
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3e0a6ecda049747978530fa0b1361b
+      internalID: 3687545368728233517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_108
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 369
+        width: 34
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f916fe3bab7c0428246b20accf00f2
+      internalID: 1706054029005985144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_109
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 369
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff02ce5911bd814eaa9f2f6bc06a2ab
+      internalID: 411006834155111024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_110
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 369
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9f7eaabd37eb64bab121ef6044e5a5
+      internalID: 8300816578710957625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_111
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 321
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e9cbfb367b52343859a75a4deff9e2
+      internalID: -5594449704889429292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_112
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 321
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93c9cd30153ec442ba13bc399922ff0
+      internalID: 5804052170845606706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_113
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 321
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187c874942bd727479a07304aa179955
+      internalID: -6148580947323390855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_114
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 321
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0280245946cf9eb45a488707705f79bc
+      internalID: 4701290058329659947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_115
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 321
+        width: 27
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df61b6d945079204287d3a7b909bcc02
+      internalID: -7598952091015217470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_116
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 321
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c239d18825352d47b9926e424577636
+      internalID: -8203196486017498991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_117
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 321
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a791c4293780e4484dc572a4554914
+      internalID: -1923891763486892606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_118
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 321
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11138c1cd2cd6044d98a219189d2f8ca
+      internalID: -2484135444783849059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_119
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 321
+        width: 33
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a301cda3a3086848bf23d46052d7a2b
+      internalID: 3372259331553647163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_120
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 322
+        width: 31
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bbe5bfee56f2f4f92b2d37d9d3caf1
+      internalID: -1752650898856706002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_121
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 275
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d25308360cac84a84c5e62a4311800
+      internalID: 6518341065511868983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_122
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 275
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6be1740d2455e439e86b68b9a2800f
+      internalID: -7914440443154550942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_123
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 208
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec65f640b29c84840a3000b6e35c08c8
+      internalID: 8939846196844148480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_124
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 209
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51a4b12ac8ed7646958acc15af06e6d
+      internalID: 1948180521483501475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_125
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 208
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd3996fefbb0c44fab227a3de171a24
+      internalID: -1718329063717836518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_126
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 208
+        width: 29
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c9523ef2cc2fd4483bc7f0b8097ba0
+      internalID: -7791575038992657578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_127
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 209
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beda35e0abc3af47a40a88a5e9f29bc
+      internalID: 8626571410670422351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_128
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 208
+        width: 29
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786006f6e3ca7784eafa6e0e5ac4e3d1
+      internalID: -9101974904709950497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_129
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 209
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96534c6c93fd3f458bb23b4663d9cdd
+      internalID: 3917775669097040791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_130
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 209
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c34a3387b9b6444bd1f64f6ba54ba1
+      internalID: -7668254150307237431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_131
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 209
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644826f8b5e09b74395cbaa276ee48d5
+      internalID: 3453632493657917016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_132
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 209
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc4300b6f330ed46b51fc494d15ae7d
+      internalID: -8708453401215363490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_133
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 161
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aef64a75dc4fc84fafcfcefd5e81d68
+      internalID: -9167461504450591675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_134
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 163
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a984833130a14b45a5520224e168d19
+      internalID: 704192531146819590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_135
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 161
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2a47d908555364eb39143cd504d9af
+      internalID: -5410206674363822206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_136
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 161
+        width: 27
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a225e111e83ff4497a038b4aba60fc
+      internalID: -5552100132735762050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_137
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 161
+        width: 34
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5304f24f6bd4eff458454130fd9bef47
+      internalID: 1818101504715799402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_138
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 161
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d98f003d8de1d44b67878366c5621f
+      internalID: -8261085986543635502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_139
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 160
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22798cc7a05a0d04a95f0db09e3a251b
+      internalID: -3124720236122148079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_140
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 113
+        width: 41
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23872892acd2e724488392ac8c7484e3
+      internalID: -1408467911476149936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_141
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 161
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047d82df96a81ff429f5964a7aad1b4d
+      internalID: 9097995869420350160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_142
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 161
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2e2ddf6b08bf545b1142a9eaf598eb
+      internalID: 3411553354643664554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_143
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 113
+        width: 35
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dafddcd259d1a644bd04bf4a7978316
+      internalID: -3431899677214812680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_144
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 113
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df46e7d71588aa84ab7047e8ae1ce084
+      internalID: -7830475175907756237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_145
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 113
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91368c75196f0704699f402720885012
+      internalID: 1418510900705791569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_146
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 47
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f21b3c3680ba7f43a74899a8f922a59
+      internalID: -194582578039163842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_147
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 113
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f449c652edff5d841b3054acb2e9915e
+      internalID: -6985492620670520824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_148
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 113
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ade267e01383c24699dc2eb38553cf6
+      internalID: 8341088391042444394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_149
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 113
+        width: 34
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adca05771bf0694b8d1ab6f8d22e256
+      internalID: 2769758042963687241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_150
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 113
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0323dd27523838408d8b783fc2cf7a3
+      internalID: 795549047437927934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_151
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 113
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c4117cb84fcb6458ca1260b045ffaa
+      internalID: 282937689678398926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_152
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 65
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b901a1c46bf9b9439dbce58da1fa146
+      internalID: -3784658990389832223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_153
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 65
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2d8d23db7b7804e8f405e79bd5985d
+      internalID: -2336626320678279641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_154
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 65
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bccbd32aae9e2a42bf206fc0d355a73
+      internalID: 6680939598445411391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_155
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 65
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723fc057ac8a2284eb0e37ef78ef9cb1
+      internalID: 4138501460170152280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_156
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 65
+        width: 27
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bbeefa0970a8f40963945e530de322
+      internalID: -296791044356977354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_157
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 65
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831c99921d92be64fbc42c48da244b0c
+      internalID: 3511226049186874712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_158
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 65
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f37ac337617fc4a8241fff5cc82882
+      internalID: 7968802037460693733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_159
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 65
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8bc77f22f37ac45b7466fe0925d722
+      internalID: 1524278036709594876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_160
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 65
+        width: 33
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dfe105d5d2de743ada5eaf31389f86
+      internalID: 7548334612496031062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_161
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 66
+        width: 31
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6039dfa1578b14e9b52522607e64d5
+      internalID: -6516342264223483303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_162
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 19
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a013cfab81e82bd4d99e3a1f3f4df5ee
+      internalID: 3399130158096172976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Umaro_163
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 19
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f1866da98829541bef735f91274de2
+      internalID: 8013586908154634868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

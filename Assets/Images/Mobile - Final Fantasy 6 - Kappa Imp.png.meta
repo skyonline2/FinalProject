@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 441391155fb9e4a4fa7037b1dafff014
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6224621313365515614
+    second: Mobile - Final Fantasy 6 - Kappa Imp_0
+  - first:
+      213: 8779320439491775517
+    second: Mobile - Final Fantasy 6 - Kappa Imp_1
+  - first:
+      213: -1558760473715236205
+    second: Mobile - Final Fantasy 6 - Kappa Imp_2
+  - first:
+      213: 3572492423778237151
+    second: Mobile - Final Fantasy 6 - Kappa Imp_3
+  - first:
+      213: -3027119832861620331
+    second: Mobile - Final Fantasy 6 - Kappa Imp_4
+  - first:
+      213: 2303966495011814349
+    second: Mobile - Final Fantasy 6 - Kappa Imp_5
+  - first:
+      213: -5730273027481656007
+    second: Mobile - Final Fantasy 6 - Kappa Imp_6
+  - first:
+      213: -3512550488715512232
+    second: Mobile - Final Fantasy 6 - Kappa Imp_7
+  - first:
+      213: 4382132923603091340
+    second: Mobile - Final Fantasy 6 - Kappa Imp_8
+  - first:
+      213: 7458635858217419893
+    second: Mobile - Final Fantasy 6 - Kappa Imp_9
+  - first:
+      213: 915687213002479969
+    second: Mobile - Final Fantasy 6 - Kappa Imp_10
+  - first:
+      213: -4045329350359126129
+    second: Mobile - Final Fantasy 6 - Kappa Imp_11
+  - first:
+      213: -5979565099772212283
+    second: Mobile - Final Fantasy 6 - Kappa Imp_12
+  - first:
+      213: 7577085763964133448
+    second: Mobile - Final Fantasy 6 - Kappa Imp_13
+  - first:
+      213: 3057665962376871287
+    second: Mobile - Final Fantasy 6 - Kappa Imp_14
+  - first:
+      213: -4260504249177588490
+    second: Mobile - Final Fantasy 6 - Kappa Imp_15
+  - first:
+      213: 1624798882991207000
+    second: Mobile - Final Fantasy 6 - Kappa Imp_16
+  - first:
+      213: 4186791566457192231
+    second: Mobile - Final Fantasy 6 - Kappa Imp_17
+  - first:
+      213: 2375463119903986603
+    second: Mobile - Final Fantasy 6 - Kappa Imp_18
+  - first:
+      213: 833215792012670512
+    second: Mobile - Final Fantasy 6 - Kappa Imp_19
+  - first:
+      213: -2949539388999940225
+    second: Mobile - Final Fantasy 6 - Kappa Imp_20
+  - first:
+      213: -3252639154894626283
+    second: Mobile - Final Fantasy 6 - Kappa Imp_21
+  - first:
+      213: 1007198543416556272
+    second: Mobile - Final Fantasy 6 - Kappa Imp_22
+  - first:
+      213: 7951800047645282585
+    second: Mobile - Final Fantasy 6 - Kappa Imp_23
+  - first:
+      213: 1767967560498415210
+    second: Mobile - Final Fantasy 6 - Kappa Imp_24
+  - first:
+      213: 8775278796068584569
+    second: Mobile - Final Fantasy 6 - Kappa Imp_25
+  - first:
+      213: -5743901917423663242
+    second: Mobile - Final Fantasy 6 - Kappa Imp_26
+  - first:
+      213: -5650643117877810844
+    second: Mobile - Final Fantasy 6 - Kappa Imp_27
+  - first:
+      213: -387188968256789330
+    second: Mobile - Final Fantasy 6 - Kappa Imp_28
+  - first:
+      213: -624387046055062600
+    second: Mobile - Final Fantasy 6 - Kappa Imp_29
+  - first:
+      213: -3340847767627251428
+    second: Mobile - Final Fantasy 6 - Kappa Imp_30
+  - first:
+      213: 613471756708424981
+    second: Mobile - Final Fantasy 6 - Kappa Imp_31
+  - first:
+      213: 4437244296512423145
+    second: Mobile - Final Fantasy 6 - Kappa Imp_32
+  - first:
+      213: -8622699654481193770
+    second: Mobile - Final Fantasy 6 - Kappa Imp_33
+  - first:
+      213: -3619503883811695350
+    second: Mobile - Final Fantasy 6 - Kappa Imp_34
+  - first:
+      213: -5843684758517836413
+    second: Mobile - Final Fantasy 6 - Kappa Imp_35
+  - first:
+      213: 2473047752149726767
+    second: Mobile - Final Fantasy 6 - Kappa Imp_36
+  - first:
+      213: -8844490096756213068
+    second: Mobile - Final Fantasy 6 - Kappa Imp_37
+  - first:
+      213: -1461805827924064745
+    second: Mobile - Final Fantasy 6 - Kappa Imp_38
+  - first:
+      213: -5568284258016960969
+    second: Mobile - Final Fantasy 6 - Kappa Imp_39
+  - first:
+      213: 1203295503277970578
+    second: Mobile - Final Fantasy 6 - Kappa Imp_40
+  - first:
+      213: 2023936093065290973
+    second: Mobile - Final Fantasy 6 - Kappa Imp_41
+  - first:
+      213: 7958749605473735410
+    second: Mobile - Final Fantasy 6 - Kappa Imp_42
+  - first:
+      213: 5851879601904329661
+    second: Mobile - Final Fantasy 6 - Kappa Imp_43
+  - first:
+      213: 3124802046015880534
+    second: Mobile - Final Fantasy 6 - Kappa Imp_44
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 208
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a39f948fcc6304bb4341f8fd66fdb0
+      internalID: 6224621313365515614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 209
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c4c0373fe06bc42b60a4972097890f
+      internalID: 8779320439491775517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 208
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707ccba8991459a40966b8418dc49bf8
+      internalID: -1558760473715236205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 208
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffcf8d3b3070ec40b2829bf31e30781
+      internalID: 3572492423778237151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 209
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2c9afa866314b4597c9b627ff58d8e
+      internalID: -3027119832861620331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 208
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb49b36cfc8a16f4396d725363e7639e
+      internalID: 2303966495011814349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 209
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6c0e194a676644aad9bf4fc40f9a68
+      internalID: -5730273027481656007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 209
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ed4f104ac8f564b9a9c8ede8098e70
+      internalID: -3512550488715512232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 209
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1596c01fd752ea64b87577948419c89e
+      internalID: 4382132923603091340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 209
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1315617f4d6be499053ede0491a1b6
+      internalID: 7458635858217419893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 161
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f39f5568f41254bbd7101327cb5d9e
+      internalID: 915687213002479969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 167
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc16efc7d675374787be403ce9560f9
+      internalID: -4045329350359126129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 161
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80bfe8b99193b244aa5c5775abadeef
+      internalID: -5979565099772212283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 161
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9cae34f27f1914f8eaef028a4a3dd5
+      internalID: 7577085763964133448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 161
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a47b842f38dc748a335cb2b1cee71c
+      internalID: 3057665962376871287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 162
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744c8a7b232dc774d939230255f4ce8d
+      internalID: -4260504249177588490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 161
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cc3c3d80395b944b8274e3ef1339a5
+      internalID: 1624798882991207000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 161
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b76cf8bfa1caec4a8511b6cba2366a8
+      internalID: 4186791566457192231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 161
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166b2872510edaa4182485135e15803b
+      internalID: 2375463119903986603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_19
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 161
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6591cda2b615e844b5344fb0a52c0ec
+      internalID: 833215792012670512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 113
+        width: 25
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d8c7a5abc1dad42a7edbfd5c47e538
+      internalID: -2949539388999940225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 113
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41cc593c2c998d4f81f499846361b06
+      internalID: -3252639154894626283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 113
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2a170b6a0fbed45b774e6917c5cf3d
+      internalID: 1007198543416556272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 113
+        width: 33
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e4c105ccf78e3408dbd43380762447
+      internalID: 7951800047645282585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 113
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e968a467a3e320245bfeadb4607aae6e
+      internalID: 1767967560498415210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 113
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eee4894098a8054cbf9d1f8f7e259b0
+      internalID: 8775278796068584569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_26
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 113
+        width: 21
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4abbbe50f94c8343ad1ddf899c40952
+      internalID: -5743901917423663242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_27
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 118
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbbee46bf398234f83c74bdf8a43aa3
+      internalID: -5650643117877810844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 113
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049bb52bc2b6df140b8b839c164a5292
+      internalID: -387188968256789330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_29
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 113
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643d1b2b21dddcd40888b218cb07875e
+      internalID: -624387046055062600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 65
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ef8be3dbc22ab449f020a707ae2ac6
+      internalID: -3340847767627251428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 65
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1f471f2fbc4bb4b8896ae007c4bff1
+      internalID: 613471756708424981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 65
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f843412fe5141c2409492d526922d8d1
+      internalID: 4437244296512423145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 65
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debe31df8d07671468a47d40e75104ec
+      internalID: -8622699654481193770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_34
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 65
+        width: 21
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d386d9bd57980499eb0ceab6c1b5c9
+      internalID: -3619503883811695350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_35
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 65
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcf940650b47074d867a15992fddc08
+      internalID: -5843684758517836413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_36
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 65
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16438867f7995e468a56c664c871391
+      internalID: 2473047752149726767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_37
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 65
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03916c2e6ee9ad84f809cfa02906cd0b
+      internalID: -8844490096756213068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_38
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 66
+        width: 22
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46e24ba6ab35d7448a1b6598a9c7f73
+      internalID: -1461805827924064745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_39
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 66
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c34031948cd6d4f991d45ced2b153b
+      internalID: -5568284258016960969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 26
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a616d6c828179942a27af320725efd7
+      internalID: 1203295503277970578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 26
+        width: 23
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdabc4d9570c90745ae8d9d2d5dde3ad
+      internalID: 2023936093065290973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_42
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 25
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea59319db5e0b9b4591aee5d82a60149
+      internalID: 7958749605473735410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 25
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1466c956ae9ac4440ac057c35b0ef373
+      internalID: 5851879601904329661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Kappa Imp_44
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 25
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec7250371e420d48b9d65e4f6dbed11
+      internalID: 3124802046015880534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
